@@ -1,0 +1,1 @@
+<tai>ᩈᩣᨵᩩ! ᩈᩣᨵᩩ! ᩈᩣᨵᩩ!</tai><roman>Sādhu! Sādhu! Sādhu!</roman><zh>萨度！萨度！萨度！</zh>

@@ -1,0 +1,19 @@
+# 咖提那供养
+## 供养咖提那布料
+<tai>ᨾᨿᩴ ᨽᨶᩮ᩠ᨲ ᩈᩴᩈᩣᩁ-ᩅᨭ᩠ᨭ-ᨴᩩᨠ᩠ᨡᨲᩮᩣ ᨾᩮᩣᨧᨶᨲ᩠ᨳᩣᨿ, ᩍᨾᩴ ᨠᨮᩥᨶ-ᨴᩩᩔᩴ ᩈᩘᨥᩔ ᨴᩮᨾ.</tai><my>မယံ ဘန္တေ သံသာရ-ဝဋ္ဋ-ဒုက္ခတော မောစနတ္ထာယ, ဣမံ ကဌိန-ဒုဿံ သင်္ဃဿ ဒေမ.</my><roman>mayaṃ bhante saṃsāra-vaṭṭa-dukkhato mocanatthāya, imaṃ kaṭhina-dussaṃ saṅghassa dema.</roman><zh>尊者，为了脱离轮回转生之苦，我们供养此咖提那衣给僧团。</zh>
+<tai>ᩍᨾᩥᨶᩣ ᨴᩩᩔᩮᨶ ᨠᨮᩥᨶᩴ ᩋᨲ᩠ᨳᩁᨳ.</tai><my>ဣမိနာ ဒုဿေန ကဌိနံ အတ္ထရထ.</my><roman>Iminā dussena kaṭhinaṃ attharatha.</roman><zh>恳请用此衣开展咖提那。</zh>
+<tai>ᨴᩩᨲᩥᨿᨾ᩠ᨷᩥ ᨾᨿᩴ ᨽᨶᩮ᩠ᨲ ᩈᩴᩈᩣᩁ-ᩅᨭ᩠ᨭ-ᨴᩩᨠ᩠ᨡᨲᩮᩣ ᨾᩮᩣᨧᨶᨲ᩠ᨳᩣᨿ, ᩍᨾᩴ ᨠᨮᩥᨶ-ᨴᩩᩔᩴ ᩈᩘᨥᩔ ᨴᩮᨾ.</tai><my>ဒုတိယမ္ပိ မယံ ဘန္တေ သံသာရ-ဝဋ္ဋ-ဒုက္ခတော မောစနတ္ထာယ, ဣမံ ကဌိန-ဒုဿံ သင်္ဃဿ ဒေမ.</my><roman>dutiyampi mayaṃ bhante saṃsāra-vaṭṭa-dukkhato mocanatthāya, imaṃ kaṭhina-dussaṃ saṅghassa dema.</roman><zh>第二次，尊者，为了脱离轮回转生之苦，我们供养此咖提那衣给僧团。</zh>
+<tai>ᩍᨾᩥᨶᩣ ᨴᩩᩔᩮᨶ ᨠᨮᩥᨶᩴ ᩋᨲ᩠ᨳᩁᨳ.</tai><my>ဣမိနာ ဒုဿေန ကဌိနံ အတ္ထရထ.</my><roman>Iminā dussena kaṭhinaṃ attharatha.</roman><zh>恳请用此衣开展咖提那。</zh>
+<tai>ᨲᨲᩥᨿᨾ᩠ᨷᩥ ᨾᨿᩴ ᨽᨶᩮ᩠ᨲ ᩈᩴᩈᩣᩁ-ᩅᨭ᩠ᨭ-ᨴᩩᨠ᩠ᨡᨲᩮᩣ ᨾᩮᩣᨧᨶᨲ᩠ᨳᩣᨿ, ᩍᨾᩴ ᨠᨮᩥᨶ-ᨴᩩᩔᩴ ᩈᩘᨥᩔ ᨴᩮᨾ.</tai><my>တတိယမ္ပိ မယံ ဘန္တေ သံသာရ-ဝဋ္ဋ-ဒုက္ခတော မောစနတ္ထာယ, ဣမံ ကဌိန-ဒုဿံ သင်္ဃဿ ဒေမ.</my><roman>tatiyampi mayaṃ bhante saṃsāra-vaṭṭa-dukkhato mocanatthāya, imaṃ kaṭhina-dussaṃ saṅghassa dema.</roman><zh>第三次，尊者，为了脱离轮回转生之苦，我们供养此咖提那衣给僧团。</zh>
+<tai>ᩍᨾᩥᨶᩣ ᨴᩩᩔᩮᨶ ᨠᨮᩥᨶᩴ ᩋᨲ᩠ᨳᩁᨳ.</tai><my>ဣမိနာ ဒုဿေန ကဌိနံ အတ္ထရထ.</my><roman>Iminā dussena kaṭhinaṃ attharatha.</roman><zh>恳请用此衣开展咖提那。</zh>
+
+## 供养咖提那成品衣
+<tai>ᨾᨿᩴ ᨽᨶᩮ᩠ᨲ ᩈᩴᩈᩣᩁ-ᩅᨭ᩠ᨭ-ᨴᩩᨠ᩠ᨡᨲᩮᩣ ᨾᩮᩣᨧᨶᨲ᩠ᨳᩣᨿ, ᩍᨾᩴ ᨠᨮᩥᨶ-ᨧᩦᩅᩁᩴ ᩈᩘᨥᩔ ᨴᩮᨾ.</tai><my>မယံ ဘန္တေ သံသာရ-ဝဋ္ဋ-ဒုက္ခတော မောစနတ္ထာယ, ဣမံ ကဌိန-စီဝရံ သင်္ဃဿ ဒေမ.</my><roman>mayaṃ bhante saṃsāra-vaṭṭa-dukkhato mocanatthāya, imaṃ kaṭhina-cīvaraṃ saṅghassa dema.</roman><zh>尊者，为了脱离轮回转生之苦，我们供养此咖提那衣给僧团。</zh>
+<tai>ᩍᨾᩥᨶᩣ ᨧᩦᩅᩁᩮᨶ ᨠᨮᩥᨶᩴ ᩋᨲ᩠ᨳᩁᨳ.</tai><my>ဣမိနာ စီဝရေန ကဌိနံ အတ္ထရထ.</my><roman>Iminā cīvarena kaṭhinaṃ attharatha.</roman><zh>恳请用此衣开展咖提那。</zh>
+<tai>ᩋᨬ᩠ᨬᩣᨶᩥ ᨧ ᨴᩤᨲᨻ᩠ᨻ-ᩅᨲ᩠ᨳᩪᨶᩥ ᩈᩘᨥ-ᨣᩩᨱᩴ ᩏᨴ᩠ᨴᩥᩔ ᩋᩣᨿᩈᩜᨶᩣ᩠ᨲᨶᩴ ᩅᩥᩈᩩᩴ ᩅᩥᩈᩩᩴ ᨿᨳᩣ ᩏᨴ᩠ᨴᩥᨭᩛᨠᩴ ᨴᩮᨾ.</tai><my>အညာနိ စ ဒါတဗ္ဗ-ဝတ္ထူနိ သင်္ဃ-ဂုဏံ ဥဒ္ဒိဿ အာယသ္မန္တာနံ ဝိသုံ ဝိသုံ ယထာ ဥဒ္ဒိဋ္ဌကံ ဒေမ.</my><roman>Aññāni ca dātabba-vatthūni saṅgha-guṇaṃ uddissa āyasmantānaṃ visuṃ visuṃ yathā uddiṭṭhakaṃ dema.</roman><zh>我们也忆念僧团的素质，把其他供养品随意愿供养每位尊者！</zh>
+<tai>ᨴᩩᨲᩥᨿᨾ᩠ᨷᩥ ᨾᨿᩴ ᨽᨶᩮ᩠ᨲ ᩈᩴᩈᩣᩁ-ᩅᨭ᩠ᨭ-ᨴᩩᨠ᩠ᨡᨲᩮᩣ ᨾᩮᩣᨧᨶᨲ᩠ᨳᩣᨿ, ᩍᨾᩴ ᨠᨮᩥᨶ-ᨧᩦᩅᩁᩴ ᩈᩘᨥᩔ ᨴᩮᨾ.</tai><my>ဒုတိယမ္ပိ မယံ ဘန္တေ သံသာရ-ဝဋ္ဋ-ဒုက္ခတော မောစနတ္ထာယ, ဣမံ ကဌိန-စီဝရံ သင်္ဃဿ ဒေမ.</my><roman>dutiyampi mayaṃ bhante saṃsāra-vaṭṭa-dukkhato mocanatthāya, imaṃ kaṭhina-cīvaraṃ saṅghassa dema.</roman><zh>第二次，尊者，为了脱离轮回转生之苦，我们供养此咖提那衣给僧团。</zh>
+<tai>ᩍᨾᩥᨶᩣ ᨧᩦᩅᩁᩮᨶ ᨠᨮᩥᨶᩴ ᩋᨲ᩠ᨳᩁᨳ.</tai><my>ဣမိနာ စီဝရေန ကဌိနံ အတ္ထရထ.</my><roman>Iminā cīvarena kaṭhinaṃ attharatha.</roman><zh>恳请用此衣开展咖提那。</zh>
+<tai>ᩋᨬ᩠ᨬᩣᨶᩥ ᨧ ᨴᩤᨲᨻ᩠ᨻ-ᩅᨲ᩠ᨳᩪᨶᩥ ᩈᩘᨥ-ᨣᩩᨱᩴ ᩏᨴ᩠ᨴᩥᩔ ᩋᩣᨿᩈᩜᨶᩣ᩠ᨲᨶᩴ ᩅᩥᩈᩩᩴ ᩅᩥᩈᩩᩴ ᨿᨳᩣ ᩏᨴ᩠ᨴᩥᨭᩛᨠᩴ ᨴᩮᨾ.</tai><my>အညာနိ စ ဒါတဗ္ဗ-ဝတ္ထူနိ သင်္ဃ-ဂုဏံ ဥဒ္ဒိဿ အာယသ္မန္တာနံ ဝိသုံ ဝိသုံ ယထာ ဥဒ္ဒိဋ္ဌကံ ဒေမ.</my><roman>Aññāni ca dātabba-vatthūni saṅgha-guṇaṃ uddissa āyasmantānaṃ visuṃ visuṃ yathā uddiṭṭhakaṃ dema.</roman><zh>我们也忆念僧团的素质，把其他供养品随意愿供养每位尊者！</zh>
+<tai>ᨲᨲᩥᨿᨾ᩠ᨷᩥ ᨾᨿᩴ ᨽᨶᩮ᩠ᨲ ᩈᩴᩈᩣᩁ-ᩅᨭ᩠ᨭ-ᨴᩩᨠ᩠ᨡᨲᩮᩣ ᨾᩮᩣᨧᨶᨲ᩠ᨳᩣᨿ, ᩍᨾᩴ ᨠᨮᩥᨶ-ᨧᩦᩅᩁᩴ ᩈᩘᨥᩔ ᨴᩮᨾ.</tai><my>တတိယမ္ပိ မယံ ဘန္တေ သံသာရ-ဝဋ္ဋ-ဒုက္ခတော မောစနတ္ထာယ, ဣမံ ကဌိန-စီဝရံ သင်္ဃဿ ဒေမ.</my><roman>tatiyampi mayaṃ bhante saṃsāra-vaṭṭa-dukkhato mocanatthāya, imaṃ kaṭhina-cīvaraṃ saṅghassa dema.</roman><zh>第三次，尊者，为了脱离轮回转生之苦，我们供养此咖提那衣给僧团。</zh>
+<tai>ᩍᨾᩥᨶᩣ ᨧᩦᩅᩁᩮᨶ ᨠᨮᩥᨶᩴ ᩋᨲ᩠ᨳᩁᨳ.</tai><my>ဣမိနာ စီဝရေန ကဌိနံ အတ္ထရထ.</my><roman>Iminā cīvarena kaṭhinaṃ attharatha.</roman><zh>恳请用此衣开展咖提那。</zh>
+<tai>ᩋᨬ᩠ᨬᩣᨶᩥ ᨧ ᨴᩤᨲᨻ᩠ᨻ-ᩅᨲ᩠ᨳᩪᨶᩥ ᩈᩘᨥ-ᨣᩩᨱᩴ ᩏᨴ᩠ᨴᩥᩔ ᩋᩣᨿᩈᩜᨶᩣ᩠ᨲᨶᩴ ᩅᩥᩈᩩᩴ ᩅᩥᩈᩩᩴ ᨿᨳᩣ ᩏᨴ᩠ᨴᩥᨭᩛᨠᩴ ᨴᩮᨾ.</tai><my>အညာနိ စ ဒါတဗ္ဗ-ဝတ္ထူနိ သင်္ဃ-ဂုဏံ ဥဒ္ဒိဿ အာယသ္မန္တာနံ ဝိသုံ ဝိသုံ ယထာ ဥဒ္ဒိဋ္ဌကံ ဒေမ.</my><roman>Aññāni ca dātabba-vatthūni saṅgha-guṇaṃ uddissa āyasmantānaṃ visuṃ visuṃ yathā uddiṭṭhakaṃ dema.</roman><zh>我们也忆念僧团的素质，把其他供养品随意愿供养每位尊者！</zh>

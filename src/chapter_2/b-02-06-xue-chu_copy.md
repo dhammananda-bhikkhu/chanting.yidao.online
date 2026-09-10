@@ -1,0 +1,1 @@
+<roman>Pisuṇā vācā veramaṇī-sik**khā**padaṃ samādiyāmi.</roman><zh>我受持离离间语学处。</zh>

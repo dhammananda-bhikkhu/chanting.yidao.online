@@ -1,0 +1,3 @@
+<tai>‘ ‘ ᩉᨶ᩠ᨴ ᨴᩤᨶᩥ , ᨽᩥᨠ᩠ᨡᩅᩮ , ᩋᩣᨾᨶ᩠ᨲᨿᩣᨾᩥ ᩅᩮᩤ ,</tai><my>‘ ‘ ဟန္ဒ ဒါနိ , ဘိက္ခဝေ , အာမန္တယာမိ ဝေါ ,</my><roman>“ handa dāni , bhikkhave , āmantayāmi vo ,</roman><zh>“好了，比库们，现在我跟你们说，</zh>
+<tai>ᩅᨿᨵᨾᩜᩣ ᩈᩘᨡᩣᩁᩣ ᩋᨷ᩠ᨷᨾᩣᨴᩮᨶ ᩈᨾ᩠ᨷᩤᨴᩮᨳᩣ ’ ’ ᨲᩥ .</tai><my>ဝယဓမ္မာ သင်္ခါရာ အပ္ပမာဒေန သမ္ပါဒေထာ ’ ’ တိ .</my><roman>vayadhammā saṅkhārā appamādena sampādethā ” ti .</roman><zh>诸行是坏灭法，应以不放逸而成就”。</zh>
+<tai>ᩋᨿᩴ ᨲᨳᩣᨣᨲᩔ ᨷᨧ᩠ᨨᩥᨾᩣ ᩅᩤᨧᩣ .</tai><my>အယံ တထာဂတဿ ပစ္ဆိမာ ဝါစာ .</my><roman>Ayaṃ tathāgatassa pacchimā vācā .</roman><zh>这是如来最后之言。</zh>

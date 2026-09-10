@@ -1,0 +1,1 @@
+Mic**chā**-ājivā veramaṇī-sik**khā**padaṃ samādiyāmi.<br>我受持离邪命学处。

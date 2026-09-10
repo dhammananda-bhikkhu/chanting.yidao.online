@@ -1,0 +1,2 @@
+<tai>ᩍᨴᩴ ᨾᩮ ᨬᩣᨲᩦᨶᩴ ᩉᩮᩣᨲᩩ, ᩈᩩᨡᩥᨲᩣ ᩉᩮᩣᨶ᩠ᨲᩩ ᨬᩣᨲᨿᩮᩣ (x3)</tai><roman>Idaṃ me ñātīnaṃ hotu, sukhitā hontu ñātayo (x3)</roman><zh>愿我所做的善业功德，回向给我的亲戚们，愿他们在随喜功德之后，早日离苦得乐。 </zh>
+<tai>ᩍᨴᩴ ᩅᩮᩤ ᨬᩣᨲᩦᨶᩴ ᩉᩮᩣᨲᩩ, ᩈᩩᨡᩥᨲᩣ ᩉᩮᩣᨶ᩠ᨲᩩ ᨬᩣᨲᨿᩮᩣ!</tai><roman>Idaṃ vo ñātīnaṃ hotu, sukhitā hontu ñātayo!</roman><zh>愿把功德分给其亲属们，愿亲属们都能快乐。</zh>

@@ -1,0 +1,1 @@
+**Pha**rusā vācā veramaṇī-sik**khā**padaṃ samādiyāmi.<br>我受持离粗恶语学处。

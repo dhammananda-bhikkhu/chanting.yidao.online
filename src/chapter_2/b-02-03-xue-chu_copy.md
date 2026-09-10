@@ -1,0 +1,1 @@
+<audio id="audio" controls src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E5%8F%97%E6%88%92/03_3%E7%A6%BB%E9%9D%9E%E6%A2%B5%E8%A1%8C.mp3"></audio><roman>Abrahmacariyā veramaṇī-sik**khā**padaṃ samādiyāmi.</roman><zh>我受持离非梵行学处。<zh>

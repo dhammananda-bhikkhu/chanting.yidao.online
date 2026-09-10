@@ -1,0 +1,1 @@
+Sam**pha**ppalāpā vācāveramaṇī-sik**khā**padaṃ samādiyāmi.<br>我受持离杂秽语学处。

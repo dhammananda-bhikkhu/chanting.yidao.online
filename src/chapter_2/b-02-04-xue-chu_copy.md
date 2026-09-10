@@ -1,0 +1,1 @@
+<roman>Kāmesu micchācārā veramaṇī-sik**khā**padaṃ samādiyāmi.</roman><zh>我受持离欲邪行学处</zh>。

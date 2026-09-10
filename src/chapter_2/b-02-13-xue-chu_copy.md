@@ -1,0 +1,1 @@
+<audio id="audio" controls src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E5%8F%97%E6%88%92/03_8%E7%A6%BB%E6%A2%B3%E5%A6%86%E6%89%93%E6%89%AE.mp3"></audio><roman>Mālā-gan**dha**-vilepana-**dhā**raṇa-maṇḍana-vi**bhū**sanaṭ**ṭhā**nā veramaṇī-sik**khā**padaṃ samādiyāmi.</roman><zh>我受持离佩戴、粉饰、装扮之因的花鬘、芳香、涂香学处。</zh>

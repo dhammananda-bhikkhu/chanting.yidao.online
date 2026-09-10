@@ -1,0 +1,1 @@
+<audio id="audio" controls src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E5%8F%97%E6%88%92/03_2%E7%A6%BB%E4%B8%8D%E4%B8%8E%E5%8F%96.mp3"></audio><roman>Adinnādānā veramaṇī-sik**khā**padaṃ samādiyāmi.</roman><zh>我受持离不与取学处。</zh>
