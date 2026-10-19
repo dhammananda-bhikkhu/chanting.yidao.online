@@ -49,4 +49,4 @@
 
 诸比库，此乃集食的比库们应遵行的集食比库之行仪。
 
-{{#include ../part/line.md:1}}(V.4.366)
+{{#include ../part/line.md:1}}(V.4.366)</span></div>

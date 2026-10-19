@@ -28,7 +28,7 @@
 </div></div>
 
 {{#include ../part/line.md:1}}
-拍摄于斯里兰卡黑水潭古寺遗址<br>Kaludiya Pokuna Sirilanka</div>
+拍摄于斯里兰卡黑水潭古寺遗址<br>Kaludiya Pokuna Sirilanka</span></div>
 
 不得用粗木橛刮擦；不得将刮屎橛丢进粪坑。
 
@@ -38,4 +38,4 @@
 
 诸比库，此乃比库们于厕所应遵行的比库之厕所行仪。
 
-{{#include ../part/line.md:1}}(V.4.374)
+{{#include ../part/line.md:1}}(V.4.374)</span></div>

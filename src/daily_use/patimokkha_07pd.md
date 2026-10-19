@@ -1,6 +1,6 @@
 <div id="lyriccontainer" class="def-lyric" style="background-image:url('https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E8%AF%B5%E6%88%92.png');background-size:cover;--full-font-size: 4vmin;--default-font-size: 1.6rem;">
 	<div id="line-tools">
-		<input type="checkbox" id='lyricSleep'>禁止熄屏</input>
+		<input type="checkbox" id='lyricSleep'>禁止熄屏
 		<button id='lyricFullscreen'>全屏播放</button>
 		<button id='lyricBigger'>加大字体</button>
 		<button id='lyricSmaller'>缩小字体</button>
@@ -32,12 +32,11 @@
 	</span>
 	</div>
 	<audio id="audio" controls style="width: 100%;">
-	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/8.%20Cattaro%20Patidesaniya%20Dhamm.mp3" >
+	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/8.%20Cattaro%20Patidesaniya%20Dhamm.mp3" ></sourceList>
 	</audio>
 </div>
 <div class="share-component" data-disabled="google,twitter,facebook" data-description="一键分享到微博，QQ空间，腾讯微博，人人，豆瓣">
 	</div>
-<div>
 
 
 # <tai>ᨷᩤᨭᩥᨴᩮᩈᨶᩦᨿᩣ</tai>
@@ -79,17 +78,17 @@
 	<my>ပဋိဒေသေတဗ္ဗံ တေန ဘိက္ခုနာ</my>
 	<roman>paṭidesetabbaṃ tena bhikkhunā</roman>
 	<zh>那位比库应当忏悔:</zh>
-	<tai>‘‘ ᨣᩤᩁᨿ᩠ᩉᩴ, ᩋᩣᩅᩩᩈᩮᩣ,ᨵᨾᩜᩴ ᩋᩣᨷᨩ᩠ᨩᩥᩴ</tai>
-	<my>‘‘ ဂါရယှံ, အာဝုသော,ဓမ္မံ အာပဇ္ဇိံ</my>
-	<roman>‘‘ gārayhaṃ, āvuso,dhammaṃ āpajjiṃ</roman>
+	<tai>“ ᨣᩤᩁᨿ᩠ᩉᩴ, ᩋᩣᩅᩩᩈᩮᩣ,ᨵᨾᩜᩴ ᩋᩣᨷᨩ᩠ᨩᩥᩴ</tai>
+	<my>“ ဂါရယှံ, အာဝုသော,ဓမ္မံ အာပဇ္ဇိံ</my>
+	<roman>“ gārayhaṃ, āvuso,dhammaṃ āpajjiṃ</roman>
 	<zh>“贤友，我犯了应受呵责之法，</zh>
 	<tai>ᩋᩈᨷ᩠ᨷᩣᨿᩴ ᨷᩤᨭᩥᨴᩮᩈᨶᩦᨿᩴ,</tai>
 	<my>အသပ္ပါယံ ပါဋိဒေသနီယံ,</my>
 	<roman>asappāyaṃ pāṭidesanīyaṃ,</roman>
 	<zh>不适当， 应悔过，</zh>
-	<tai>ᨲᩴ ᨷᨭᩥᨴᩮᩈᩮᨾᩦ’’ ᨲᩥ.</tai>
-	<my>တံ ပဋိဒေသေမီ’’ တိ.</my>
-	<roman>taṃ paṭidesemī’’ ti.</roman>
+	<tai>ᨲᩴ ᨷᨭᩥᨴᩮᩈᩮᨾᩦ” ᨲᩥ.</tai>
+	<my>တံ ပဋိဒေသေမီ” တိ.</my>
+	<roman>taṃ paṭidesemī” ti.</roman>
 	<zh>我为此忏悔。”</zh>
 2. 
 	<tai>ᨽᩥᨠ᩠ᨡᩪ ᨷᨶᩮᩅ ᨠᩩᩃᩮᩈᩩ ᨶᩥᨾᨶ᩠ᨲᩥᨲᩣ ᨽᩩᨬ᩠ᨩᨶ᩠ᨲᩥ,</tai>
@@ -104,21 +103,21 @@
 	<my>ဝေါသာသမာန-ရူပါ ဌိတာ ဟောတိ</my>
 	<roman>vosāsamāna-rūpā ṭhitā hoti</roman>
 	<zh>站着指点安排:</zh>
-	<tai>‘‘ ᩍᨵ ᩈᩪᨷᩴ ᨴᩮᨳ, ᩍᨵ ᩒᨴᨶᩴ ᨴᩮᨳᩣ’’ ᨲᩥ.</tai>
-	<my>‘‘ ဣဓ သူပံ ဒေထ, ဣဓ ဩဒနံ ဒေထာ’’ တိ.</my>
-	<roman>‘‘ idha sūpaṃ detha, idha odanaṃ dethā’’ ti.</roman>
+	<tai>“ᩍᨵ ᩈᩪᨷᩴ ᨴᩮᨳ, ᩍᨵ ᩒᨴᨶᩴ ᨴᩮᨳᩣ”ᨲᩥ.</tai>
+	<my>“ဣဓ သူပံ ဒေထ, ဣဓ ဩဒနံ ဒေထာ”တိ.</my>
+	<roman>“idha sūpaṃ detha, idha odanaṃ dethā”ti.</roman>
 	<zh>“这里给羹，这里给饭。”</zh>
-	<tai>ᨲᩮᩉᩥ ᨽᩥᨠ᩠ᨡᩪᩉᩥ ᩈᩣ ᨽᩥᨠ᩠ᨡᩩᨶᩦ ᩋᨷᩈᩣᨴᩮᨲᨻ᩠ᨻᩣ‘‘ </tai>
-	<my>တေဟိ ဘိက္ခူဟိ သာ ဘိက္ခုနီ အပသာဒေတဗ္ဗာ‘‘ </my>
-	<roman>Tehi bhikkhūhi sā bhikkhunī apasādetabbā‘‘ </roman>
+	<tai>ᨲᩮᩉᩥ ᨽᩥᨠ᩠ᨡᩪᩉᩥ ᩈᩣ ᨽᩥᨠ᩠ᨡᩩᨶᩦ ᩋᨷᩈᩣᨴᩮᨲᨻ᩠ᨻᩣ“ </tai>
+	<my>တေဟိ ဘိက္ခူဟိ သာ ဘိက္ခုနီ အပသာဒေတဗ္ဗာ“ </my>
+	<roman>Tehi bhikkhūhi sā bhikkhunī apasādetabbā“ </roman>
 	<zh>那些比库应斥责该比库尼:</zh>
 	<tai>ᩋᨷᩈᨠ᩠ᨠ ᨲᩣᩅ ᨽᨣᩥᨶᩥ,</tai>
 	<my>အပသက္က တာဝ ဘဂိနိ,</my>
 	<roman>apasakka tāva bhagini,</roman>
 	<zh>“贤妹，请回避!</zh>
-	<tai>ᨿᩣᩅ ᨽᩥᨠ᩠ᨡᩪ ᨽᩩᨬ᩠ᨩᨶ᩠ᨲᩦ’’ ᨲᩥ.</tai>
-	<my>ယာဝ ဘိက္ခူ ဘုဉ္ဇန္တီ’’ တိ.</my>
-	<roman>yāva bhikkhū bhuñjantī’’ ti.</roman>
+	<tai>ᨿᩣᩅ ᨽᩥᨠ᩠ᨡᩪ ᨽᩩᨬ᩠ᨩᨶ᩠ᨲᩦ” ᨲᩥ.</tai>
+	<my>ယာဝ ဘိက္ခူ ဘုဉ္ဇန္တီ” တိ.</my>
+	<roman>yāva bhikkhū bhuñjantī” ti.</roman>
 	<zh>直到比库们用餐结束”</zh>
 	<tai>ᩑᨠᩔᨷᩥ ᨧᩮ ᨽᩥᨠ᩠ᨡᩩᨶᩮᩣ ᨶ ᨷᨭᩥᨽᩣᩈᩮᨿ᩠ᨿ</tai>
 	<my>ဧကဿပိ စေ ဘိက္ခုနော န ပဋိဘာသေယျ</my>
@@ -128,29 +127,29 @@
 	<my>တံ ဘိက္ခုနိံ အပသာဒေတုံ</my>
 	<roman>taṃ bhikkhuniṃ apasādetuṃ</roman>
 	<zh>斥责该比库尼:</zh>
-	<tai>‘‘ᩋᨷᩈᨠ᩠ᨠᨲᩣᩅ ᨽᨣᩥᨶᩥ, </tai>
-	<my>‘‘အပသက္ကတာဝ ဘဂိနိ, </my>
-	<roman>‘‘apasakka tāva bhagini, </roman>
+	<tai>“ᩋᨷᩈᨠ᩠ᨠᨲᩣᩅ ᨽᨣᩥᨶᩥ, </tai>
+	<my>“အပသက္ကတာဝ ဘဂိနိ, </my>
+	<roman>“apasakka tāva bhagini, </roman>
 	<zh>“贤妹，请回避!</zh>
-	<tai>ᨿᩣᩅ ᨽᩥᨠ᩠ᨡᩪ ᨽᩩᨬ᩠ᨩᨶ᩠ᨲᩦ’’ ᨲᩥ,</tai>
-	<my>ယာဝ ဘိက္ခူ ဘုဉ္ဇန္တီ’’ တိ,</my>
-	<roman>yāva bhikkhū bhuñjantī’’ ti,</roman>
+	<tai>ᨿᩣᩅ ᨽᩥᨠ᩠ᨡᩪ ᨽᩩᨬ᩠ᨩᨶ᩠ᨲᩦ”ᨲᩥ,</tai>
+	<my>ယာဝ ဘိက္ခူ ဘုဉ္ဇန္တီ”တိ,</my>
+	<roman>yāva bhikkhū bhuñjantī”ti,</roman>
 	<zh>直到比库们用餐结束”</zh>
 	<tai>ᨷᨭᩥᨴᩮᩈᩮᨲᨻ᩠ᨻᩴ ᨲᩮᩉᩥ ᨽᩥᨠ᩠ᨡᩪᩉᩥ</tai>
 	<my>ပဋိဒေသေတဗ္ဗံ တေဟိ ဘိက္ခူဟိ</my>
 	<roman>paṭidesetabbaṃ tehi bhikkhūhi</roman>
 	<zh>那些比库应忏悔:</zh>
-	<tai>‘‘ᨣᩤᩁᨿ᩠ᩉᩴ, ᩋᩣᩅᩩᩈᩮᩣ, ᨵᨾᩜᩴ ᩋᩣᨷᨩ᩠ᨩᩥᨾ᩠ᩉᩣ</tai>
-	<my>‘‘ဂါရယှံ, အာဝုသော, ဓမ္မံ အာပဇ္ဇိမှာ</my>
-	<roman>‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā</roman>
+	<tai>“ᨣᩤᩁᨿ᩠ᩉᩴ, ᩋᩣᩅᩩᩈᩮᩣ, ᨵᨾᩜᩴ ᩋᩣᨷᨩ᩠ᨩᩥᨾ᩠ᩉᩣ</tai>
+	<my>“ဂါရယှံ, အာဝုသော, ဓမ္မံ အာပဇ္ဇိမှာ</my>
+	<roman>“gārayhaṃ, āvuso, dhammaṃ āpajjimhā</roman>
 	<zh>“贤友们，我们犯了应受指责之法，</zh>
 	<tai>ᩋᩈᨷ᩠ᨷᩣᨿᩴ ᨷᩤᨭᩥᨴᩮᩈᨶᩦᨿᩴ,</tai>
 	<my>အသပ္ပါယံ ပါဋိဒေသနီယံ,</my>
 	<roman>asappāyaṃ pāṭidesanīyaṃ,</roman>
 	<zh>不适当、应悔过</zh>
-	<tai>ᨲᩴ ᨷᨭᩥᨴᩮᩈᩮᨾᩣ’’ ᨲᩥ.</tai>
-	<my>တံ ပဋိဒေသေမာ’’ တိ.</my>
-	<roman>taṃ paṭidesemā’’ ti.</roman>
+	<tai>ᨲᩴ ᨷᨭᩥᨴᩮᩈᩮᨾᩣ”ᨲᩥ.</tai>
+	<my>တံ ပဋိဒေသေမာ”တိ.</my>
+	<roman>taṃ paṭidesemā”ti.</roman>
 	<zh>我们悔过它。”</zh>
 3. 
 	<tai>ᨿᩣᨶᩥ ᨡᩮᩣ ᨷᨶ ᨲᩣᨶᩥ ᩈᩮᨠ᩠ᨡ-ᩈᨾᩜᨲᩣᨶᩥ ᨠᩩᩃᩣᨶᩥ,</tai>
@@ -189,9 +188,9 @@
 	<my>အသပ္ပါယံ ပါဋိဒေသနီယံ,</my>
 	<roman>asappāyaṃ pāṭidesanīyaṃ,</roman>
 	<zh>不适当，应悔过，</zh>
-	<tai>ᨲᩴ ᨷᨭᩥᨴᩮᩈᩮᨾᩦ” ᨲᩥ.</tai>
-	<my>တံ ပဋိဒေသေမီ” တိ.</my>
-	<roman>taṃ paṭidesemī” ti.</roman>
+	<tai>ᨲᩴ ᨷᨭᩥᨴᩮᩈᩮᨾᩦ”ᨲᩥ.</tai>
+	<my>တံ ပဋိဒေသေမီ”တိ.</my>
+	<roman>taṃ paṭidesemī”ti.</roman>
 	<zh>我为此忏悔。”</zh>
 4. 
 	<tai>ᨿᩣᨶᩥ ᨡᩮᩣ ᨷᨶ ᨲᩣᨶᩥ ᩋᩣᩁᨬ᩠ᨬᨠᩣᨶᩥ ᩈᩮᨶᩣᩈᨶᩣᨶᩥ </tai>
@@ -234,9 +233,9 @@
 	<my>အသပ္ပါယံ ပါဋိဒေသနီယံ,</my>
 	<roman>asappāyaṃ pāṭidesanīyaṃ,</roman>
 	<zh>不适当，应悔过，</zh>
-	<tai>ᨲᩴ ᨷᨭᩥᨴᩮᩈᩮᨾᩦ” ᨲᩥ.</tai>
-	<my>တံ ပဋိဒေသေမီ” တိ.</my>
-	<roman>taṃ paṭidesemī” ti.</roman>
+	<tai>ᨲᩴ ᨷᨭᩥᨴᩮᩈᩮᨾᩦ”ᨲᩥ.</tai>
+	<my>တံ ပဋိဒေသေမီ”တိ.</my>
+	<roman>taṃ paṭidesemī”ti.</roman>
 	<zh>我为此忏悔。”</zh>
 
 <tai>ᩏᨴ᩠ᨴᩥᨭᩛᩣ ᨡᩮᩣ ᩋᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ</tai>

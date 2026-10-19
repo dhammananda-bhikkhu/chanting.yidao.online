@@ -17,9 +17,16 @@
 
 
 ## 三、五戒
-|念诵者|念诵内容|
-|:-:|:-|
-|比库&求戒者|1.{{#include b-02-01-xue-chu_copy.md}}<br><br>2.{{#include b-02-02-xue-chu_copy.md}}<br><br>3.{{#include b-02-04-xue-chu_copy.md}}<br><br>4.{{#include b-02-05-xue-chu_copy.md}}<br><br>5.{{#include b-02-10-xue-chu_copy.md}}|
+
+1. {{#include b-02-01-xue-chu_copy.md}}
+---
+2. {{#include b-02-02-xue-chu_copy.md}}
+---
+3. {{#include b-02-04-xue-chu_copy.md}}
+---
+4. {{#include b-02-05-xue-chu_copy.md}}
+---
+5. {{#include b-02-10-xue-chu_copy.md}}|
 
 
 

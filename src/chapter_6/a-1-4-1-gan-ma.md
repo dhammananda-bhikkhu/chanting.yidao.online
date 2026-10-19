@@ -81,5 +81,5 @@
 <zh>僧团已解除此同一共住、同一伍波瑟特界，</zh>
 <roman>**kha**mati saṅ**gha**ssa, tasmā tuṇhī.</roman>
 <zh>僧团同意故，所以沉默。</zh>
-<roman>Evam-etaṃ **dhā**rayāmi.
+<roman>Evam-etaṃ **dhā**rayāmi.</roman>
 <zh>此事我如此忆持。</zh>

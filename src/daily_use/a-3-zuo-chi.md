@@ -15,7 +15,7 @@ tā tumhamūle paṭidesemi.<br>
 上座：Ahaṃ，āvuso，sabbā āpattiyo āvikaromi / ārocemi.<br>
 下座：sādhu，bhante，sādhu sādhu.<br>
 上座：Ahaṃ，āvuso，sambahulā nānāvatthukā sabbā āpattiyo āpajjiṃ，
-tā tuyhaṃ“图一行” mūle paṭidesemi.<br>
+tā tuyhaṃ“图一行”mūle paṭidesemi.<br>
 下座：Passatha，bhante，tā āpattiyo？<br>
 上座：Āma，āvuso，passami.<br>
 下座：Āyatiṃ，bhante，saṃvareyyatha.<br>

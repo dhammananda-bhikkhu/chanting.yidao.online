@@ -40,7 +40,7 @@
 <zh>僧团要依那些界相来结</zh>
 <roman>samāna-saṃvāsaṃ ek’uposa**thaṃ**. </roman>
 <zh>同一共住、同一伍波瑟特界。</zh>
-<roman>Esā ñatti.
+<roman>Esā ñatti.</roman>
 <zh>这是提案。</zh>
 
 

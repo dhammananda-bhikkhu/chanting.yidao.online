@@ -1,7 +1,7 @@
 # 云台晚课5（轮诵无畏偈，初五、十二、二十、廿七）
 
 <audio id="audio" controls style="width: 100%;">
-	<sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E4%BA%91%E5%8F%B0%E6%97%A9%E6%99%9A%E8%AF%BE/%E6%99%9A%E8%AF%BE5%EF%BC%88%E8%BD%AE%E8%AF%B5%E6%97%A0%E7%95%8F%E5%81%88%EF%BC%89-%E6%B3%95%E6%8A%A4.mp3" >
+	<sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E4%BA%91%E5%8F%B0%E6%97%A9%E6%99%9A%E8%AF%BE/%E6%99%9A%E8%AF%BE5%EF%BC%88%E8%BD%AE%E8%AF%B5%E6%97%A0%E7%95%8F%E5%81%88%EF%BC%89-%E6%B3%95%E6%8A%A4.mp3" ></sourceList>
 </audio>
 
 ## Ratanattaya vandanā(礼拜三宝)

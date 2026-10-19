@@ -1,6 +1,6 @@
 <div id="lyriccontainer" class="def-lyric" style="background-image:url('https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E8%AF%B5%E6%88%92.png');background-size:cover;--full-font-size: 4vmin;--default-font-size: 1.6rem;">
 	<div id="line-tools">
-		<input type="checkbox" id='lyricSleep'>禁止熄屏</input>
+		<input type="checkbox" id='lyricSleep'>禁止熄屏
 		<button id='lyricFullscreen'>全屏播放</button>
 		<button id='lyricBigger'>加大字体</button>
 		<button id='lyricSmaller'>缩小字体</button>
@@ -32,12 +32,11 @@
    </span>
    </div>
 	<audio id="audio" controls style="width: 100%;">
-	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/3.%20Parajikuddes.mp3" >
+	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/3.%20Parajikuddes.mp3" ></sourceList>
 	</audio>
 </div>
 <div class="share-component" data-disabled="google,twitter,facebook" data-description="一键分享到微博，QQ空间，腾讯微博，人人，豆瓣">
    </div>
-<div>
 
 # 巴拉基咖
 
@@ -99,14 +98,14 @@
    <tai>ᨾᩁᨱᩣᨿ ᩅᩤ ᩈᨾᩣᨴᨷᩮᨿ᩠ᨿ</tai>
    <roman>maraṇāya vā samādapeyya</roman>
    <zh>或劝勉死:</zh>
-   <tai>‘‘ ᩋᨾᩮ᩠ᨽᩣ ᨷᩩᩁᩥᩈ ᨠᩥᩴ</tai>
-   <roman>‘‘ ambho purisa kiṃ</roman>
+   <tai>“ᩋᨾᩮ᩠ᨽᩣ ᨷᩩᩁᩥᩈ ᨠᩥᩴ</tai>
+   <roman>“ambho purisa kiṃ</roman>
    <zh>“嘿，爷们！为什么</zh>
    <tai>ᨲᩩᨿ᩠ᩉᩥᨾᩥᨶᩣ ᨷᩤᨷᨠᩮᨶ ᨴᩩᨩ᩠ᨩᩦᩅᩥᨲᩮᨶ,</tai>
    <roman>tuyhiminā pāpakena dujjīvitena,</roman>
    <zh>你如此恶苦地活着？</zh>
-   <tai>ᨾᨲᩴ ᨲᩮ ᨩᩦᩅᩥᨲᩣ ᩈᩮᨿᩮ᩠ᨿᩣ’’ ᨲᩥ,</tai>
-   <roman>mataṃ te jīvitā seyyo’’ ti,</roman>
+   <tai>ᨾᨲᩴ ᨲᩮ ᨩᩦᩅᩥᨲᩣ ᩈᩮᨿᩮ᩠ᨿᩣ”ᨲᩥ,</tai>
+   <roman>mataṃ te jīvitā seyyo”ti,</roman>
    <zh>死比活着更好。”</zh>
    <tai>ᩍᨲᩥ ᨧᩥᨲ᩠ᨲᨾᨶᩮᩣ ᨧᩥᨲ᩠ᨲᩈᩘᨠᨷᩮ᩠ᨷᩣ</tai>
    <roman>iti cittamano cittasaṅkappo</roman>
@@ -130,8 +129,8 @@
    <tai>ᩋᩃᨾᩁᩥᨿᨬᩣᨱᨴᩔᨶᩴ ᩈᨾᩩᨴᩤᨧᩁᩮᨿ᩠ᨿ</tai>
    <roman>alamariya-ñāṇadassanaṃ samudācareyya</roman>
    <zh>能为圣者的智见:</zh>
-   <tai>‘‘ ᩍᨲᩥ ᨩᩣᨶᩣᨾᩥ, ᩍᨲᩥ ᨷᩔᩣᨾᩦ’’ ᨲᩥ,</tai>
-   <roman>‘‘ iti jānāmi, iti passāmī’’ ti,</roman>
+   <tai>“ᩍᨲᩥ ᨩᩣᨶᩣᨾᩥ, ᩍᨲᩥ ᨷᩔᩣᨾᩦ”ᨲᩥ,</tai>
+   <roman>“iti jānāmi, iti passāmī”ti,</roman>
    <zh>“我知如此，我见如此。”</zh>
    <tai>ᨲᨲᩮᩣ ᩋᨷᩁᩮᨶ ᩈᨾᨿᩮᨶ</tai>
    <roman>tato aparena samayena</roman>
@@ -142,14 +141,14 @@
    <tai>ᩋᩣᨷᨶᩮᩣ᩠ᨶ ᩅᩥᩈᩩᨴ᩠ᨵᩤᨷᩮᨠᩮ᩠ᨡᩣ ᩑᩅᩴ ᩅᨴᩮᨿ᩠ᨿ</tai>
    <roman>āpanno visuddhāpekkho evaṃ vadeyya</roman>
    <zh>若希望所犯的清净而如此说：</zh>
-   <tai>‘‘ ᩋᨩᩣᨶᨾᩮᩅᩴ ᩋᩣᩅᩩᩈᩮᩣ ᩋᩅᨧᩴ ᨩᩣᨶᩣᨾᩥ,</tai>
-   <roman>‘‘ ajānamevaṃ āvuso avacaṃ jānāmi,</roman>
+   <tai>“ᩋᨩᩣᨶᨾᩮᩅᩴ ᩋᩣᩅᩩᩈᩮᩣ ᩋᩅᨧᩴ ᨩᩣᨶᩣᨾᩥ,</tai>
+   <roman>“ajānamevaṃ āvuso avacaṃ jānāmi,</roman>
    <zh>“贤友，不知如此而说‘我知’，</zh>
    <tai>ᩋᨷᩔᩴ ᨷᩔᩣᨾᩥ,</tai>
    <roman>apassaṃ passāmi,</roman>
    <zh>不见[而说] ‘我见’，</zh>
-   <tai>ᨲᩩᨧ᩠ᨨᩴ ᨾᩩᩈᩣ ᩅᩥᩃᨷᩥᨶ᩠’’ ᨲᩥ,</tai>
-   <roman>tucchaṃ musā vilapin’’ ti,</roman>
+   <tai>ᨲᩩᨧ᩠ᨨᩴ ᨾᩩᩈᩣ ᩅᩥᩃᨷᩥᨶ᩠”ᨲᩥ,</tai>
+   <roman>tucchaṃ musā vilapin”ti,</roman>
    <zh>[我说了]空无、虚伪、妄语。”</zh>
    <tai>ᩋᨬ᩠ᨬᨲᩕ ᩋᨵᩥᨾᩣᨶᩣ, ᩋᨿᨾ᩠ᨷᩥ ᨷᩤᩁᩣᨩᩥᨠᩮᩣ ᩉᩮᩣᨲᩥ ᩋᩈᩴᩅᩤᩈᩮᩣ.</tai>
    <roman>aññatra adhimānā, ayampi pārājiko hoti asaṃvāso.</roman>

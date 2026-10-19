@@ -2,7 +2,7 @@
 
 <div id="lyriccontainer" class="def-lyric" style="background-image:url('https://djt-res.fzcl.org.cn/jly/img/buddha_city.jpg');background-size:cover;--full-font-size: 4vmin;--default-font-size: 1.6rem;">
 	<div id="line-tools">
-		<input type="checkbox" id='lyricSleep'>禁止熄屏</input>
+		<input type="checkbox" id='lyricSleep'>禁止熄屏
 		<button id='lyricFullscreen'>全屏播放</button>
 		<button id='lyricBigger'>加大字体</button>
 		<button id='lyricSmaller'>缩小字体</button>
@@ -12,14 +12,13 @@
 	<div id="line-last"><span></span><span></span><span></span></div>
 	<div id="line-current" class='active'><span></span><span></span><span></span></div>
 	<div id="line-next"><span></span><span></span><span></span></div>
-	<audio id="audio" controls style="width: 100%;">
+	<!--audio id="audio" controls style="width: 100%;">
 	  <sourceList src="https://djt-res.fzcl.org.cn/jly/audio/大金塔寺晚课（宝经）祜巴罕听_0321.mp3" >
-	  <!--sourceList src="https://djt-res.fzcl.org.cn/jly/audio/大金塔寺晚课（宝经）祜巴罕听_0321.mp3,
-	  https://djt-res.fzcl.org.cn/jly/audio/dhammacakka_0218.mp3" -->
-	</audio>
+	  <sourceList src="https://djt-res.fzcl.org.cn/jly/audio/大金塔寺晚课（宝经）祜巴罕听_0321.mp3,
+	  https://djt-res.fzcl.org.cn/jly/audio/dhammacakka_0218.mp3" >
+	</audio-->
 </div>
 <div class="share-component" data-disabled="google,twitter,facebook" data-description="一键分享到微博，QQ空间，腾讯微博，人人，豆瓣"></div>
-<div>
 
 ## Ratanattaya vandanā(礼拜三宝)
 
@@ -55,7 +54,7 @@
 
 ## Moraparittaṃ(孔雀护卫暮归)
 
-<lrc2text startLine="161" endLine="170" lrcName="大金塔寺晚课（宝经）祜巴罕听_0321.lrc" lrcName="大金塔寺晚课（宝经）祜巴罕听_0321.lrc"></lrc2text>
+<lrc2text startLine="161" endLine="170" lrcName="大金塔寺晚课（宝经）祜巴罕听_0321.lrc"></lrc2text>
 
 ## Abhayagāthā(无畏偈)
 

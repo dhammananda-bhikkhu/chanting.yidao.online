@@ -1,6 +1,6 @@
-# **早 课**
+# **大金塔早课**
 
-<div id="lyriccontainer" style="background-image:url('https://djt-res.fzcl.org.cn/jly/img/buddha_city.jpg');background-size:cover;--full-font-size: 4vmin;--default-font-size: 1.6rem;">
+<!--div id="lyriccontainer" style="background-image:url('https://djt-res.fzcl.org.cn/jly/img/buddha_city.jpg');background-size:cover;--full-font-size: 4vmin;--default-font-size: 1.6rem;">
 	<audio id="audio" controls style="width: 100%;">
 	  <source src="" type="audio/mpeg">
 	</audio>
@@ -15,7 +15,7 @@
 	<div id="line-next"><span></span><span></span><span></span></div>
 </div>
 <div class="share-component" data-disabled="google,twitter,facebook" data-description="一键分享到微博，QQ空间，腾讯微博，人人，豆瓣"></div>
-<div>
+<div-->
 
 {{#include ./material/ratanattaya_vandana.md}}
 

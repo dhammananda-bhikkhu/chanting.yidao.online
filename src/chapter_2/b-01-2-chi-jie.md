@@ -1,6 +1,8 @@
 # 普通五戒（pañca-sīla）
 ## 一、请求三皈依和五戒
 
+<audio id="audio" controls style="width: 100%;" src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E5%8F%97%E6%88%92/01B%E8%AF%B7%E6%B1%82%E6%99%AE%E9%80%9A%E4%BA%94%E6%88%92.mp3">
+</audio>
 
 |念诵者|念诵内容|
 |:-:|:-|

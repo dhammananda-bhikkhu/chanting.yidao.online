@@ -1,6 +1,6 @@
 <div id="lyriccontainer" class="def-lyric" style="background-image:url('https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E8%AF%B5%E6%88%92.png');background-size:cover;--full-font-size: 4vmin;--default-font-size: 1.6rem;">
 	<div id="line-tools">
-		<input type="checkbox" id='lyricSleep'>禁止熄屏</input>
+		<input type="checkbox" id='lyricSleep'>禁止熄屏
 		<button id='lyricFullscreen'>全屏播放</button>
 		<button id='lyricBigger'>加大字体</button>
 		<button id='lyricSmaller'>缩小字体</button>
@@ -32,12 +32,11 @@
 	</span>
 	</div>
 	<audio id="audio" controls style="width: 100%;">
-	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/7.%20Dvenavuti%20Pacittiya%20Dhamma.mp3" >
+	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/7.%20Dvenavuti%20Pacittiya%20Dhamma.mp3" ></sourceList>
 	</audio>
 </div>
 <div class="share-component" data-disabled="google,twitter,facebook" data-description="一键分享到微博，QQ空间，腾讯微博，人人，豆瓣">
 	</div>
-<div>
 
 
 # 心堕落Suddhapācittiyā
@@ -212,13 +211,13 @@
 	<my>ဇာနံ ပုဗ္ဗုပဂတံ ဘိက္ခုံ အနုပခဇ္ဇ သေယျံ ကပ္ပေယျ</my>
 	<roman>jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya</roman>
 	<zh>明知有先到的比库，强入而设卧具:</zh>
-    <tai>“ ᨿᩔ ᩈᨾ᩠ᨻᩣᨵᩮᩣ ᨽᩅᩥᩔᨲᩥ,</tai>
-	<my>“ ယဿ သမ္ဗာဓေါ ဘဝိဿတိ,</my>
-	<roman>“ yassa sambādho bhavissati,</roman>
+    <tai>“ᨿᩔ ᩈᨾ᩠ᨻᩣᨵᩮᩣ ᨽᩅᩥᩔᨲᩥ,</tai>
+	<my>“ယဿ သမ္ဗာဓေါ ဘဝိဿတိ,</my>
+	<roman>“yassa sambādho bhavissati,</roman>
 	<zh>“谁要是拥挤，</zh>
-    <tai>ᩈᩮᩣ ᨷᨠ᩠ᨠᨾᩥᩔᨲᩦ” ᨲᩥ</tai>
-	<my>သော ပက္ကမိဿတီ” တိ</my>
-	<roman>so pakkamissatī” ti</roman>
+    <tai>ᩈᩮᩣ ᨷᨠ᩠ᨠᨾᩥᩔᨲᩦ”ᨲᩥ</tai>
+	<my>သော ပက္ကမိဿတီ”တိ</my>
+	<roman>so pakkamissatī”ti</roman>
 	<zh>他就会离开。”</zh>
     <tai>ᩑᨲᨴᩮᩅ ᨷᨧ᩠ᨧᨿᩴ ᨠᩁᩥᨲ᩠ᩅᩣ ᩋᨶᨬ᩠ᨬᩴ, ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
 	<my>ဧတဒေဝ ပစ္စယံ ကရိတွာ အနညံ, ပါစိတ္တိယံ.</my>
@@ -338,9 +337,9 @@
 	<my>ယော ပန ဘိက္ခု ဧဝံ ဝဒေယျ</my>
 	<roman>Yo pana bhikkhu evaṃ vadeyya</roman>
 	<zh>若比库如此说：</zh>
-    <tai>“ ᩋᩣᨾᩥᩈᩉᩮᨲᩩ ᨳᩮᩁᩣ ᨽᩥᨠ᩠ᨡᩪ ᨽᩥᨠ᩠ᨡᩩᨶᩥᨿᩮᩣ ᩒᩅᨴᨶ᩠ᨲᩦ” ᨲᩥ, ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
-	<my>“ အာမိသဟေတု ထေရာ ဘိက္ခူ ဘိက္ခုနိယော ဩဝဒန္တီ” တိ, ပါစိတ္တိယံ.</my>
-	<roman>“ āmisa-hetu therā bhikkhū bhikkhuniyo ovadantī” ti, pācittiyaṃ.</roman>
+    <tai>“ᩋᩣᨾᩥᩈᩉᩮᨲᩩ ᨳᩮᩁᩣ ᨽᩥᨠ᩠ᨡᩪ ᨽᩥᨠ᩠ᨡᩩᨶᩥᨿᩮᩣ ᩒᩅᨴᨶ᩠ᨲᩦ”ᨲᩥ, ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
+	<my>“အာမိသဟေတု ထေရာ ဘိက္ခူ ဘိက္ခုနိယော ဩဝဒန္တီ”တိ, ပါစိတ္တိယံ.</my>
+	<roman>“āmisa-hetu therā bhikkhū bhikkhuniyo ovadantī”ti, pācittiyaṃ.</roman>
 	<zh>“长老比库们因为利养而教诲诸比库尼”者，巴吉帝亚。</zh>
 25. 
     <tai>ᨿᩮᩣ ᨷᨶ ᨽᩥᨠ᩠ᨡᩩ ᩋᨬ᩠ᨬᩣᨲᩥᨠᩣᨿ ᨽᩥᨠ᩠ᨡᩩᨶᩥᨿᩣ</tai>
@@ -536,9 +535,9 @@
 	<my>အဘိဟဋ္ဌုံ ပဝါရေယျ</my>
 	<roman>abhihaṭṭhuṃ pavāreyya</roman>
 	<zh>邀请拿取</zh>
-    <tai>“ ᩉᨶ᩠ᨴ ᨽᩥᨠ᩠ᨡᩩ ᨡᩣᨴ ᩅᩤ ᨽᩩᨬ᩠ᨩ ᩅᩤ” ᨲᩥ</tai>
-	<my>“ ဟန္ဒ ဘိက္ခု ခါဒ ဝါ ဘုဉ္ဇ ဝါ” တိ</my>
-	<roman>“ handa bhikkhu khāda vā bhuñja vā” ti</roman>
+    <tai>“ᩉᨶ᩠ᨴ ᨽᩥᨠ᩠ᨡᩩ ᨡᩣᨴ ᩅᩤ ᨽᩩᨬ᩠ᨩ ᩅᩤ”ᨲᩥ</tai>
+	<my>“ဟန္ဒ ဘိက္ခု ခါဒ ဝါ ဘုဉ္ဇ ဝါ”တိ</my>
+	<roman>“handa bhikkhu khāda vā bhuñja vā”ti</roman>
 	<zh>“比库，来咀嚼或食用吧!”</zh>
     <tai>ᨩᩣᨶᩴ ᩋᩣᩈᩣᨴᨶᩣ-(ᩋ)ᨷᩮᨠᩮ᩠ᨡᩣ, ᨽᩩᨲ᩠ᨲᩈᩜᩥᩴ ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
 	<my>ဇာနံ အာသာဒနာ-(အ)ပေက္ခော, ဘုတ္တသ္မိံ ပါစိတ္တိယံ.</my>
@@ -624,25 +623,25 @@
 	<my>ယော ပန ဘိက္ခု ဘိက္ခုံ</my>
 	<roman>Yo pana bhikkhu bhikkhuṃ</roman>
 	<zh>若比库对比库如此说:</zh>
-	<tai>“ ᩑᩉᩣᩅᩩᩈᩮᩣ, ᨣᩤᨾᩴ ᩅᩤ ᨶᩥᨣᨾᩴ ᩅᩤ ᨷᩥᨱ᩠ᨯᩣᨿ ᨷᩅᩥᩈᩥᩔᩣᨾᩣ” ᨲᩥ</tai>
-	<my>“ ဧဟာဝုသော, ဂါမံ ဝါ နိဂမံ ဝါ ပိဏ္ဍာယ ပဝိသိဿာမာ” တိ</my>
-	<roman>“ ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā” ti</roman>
+	<tai>“ᩑᩉᩣᩅᩩᩈᩮᩣ, ᨣᩤᨾᩴ ᩅᩤ ᨶᩥᨣᨾᩴ ᩅᩤ ᨷᩥᨱ᩠ᨯᩣᨿ ᨷᩅᩥᩈᩥᩔᩣᨾᩣ”ᨲᩥ</tai>
+	<my>“ဧဟာဝုသော, ဂါမံ ဝါ နိဂမံ ဝါ ပိဏ္ဍာယ ပဝိသိဿာမာ”တိ</my>
+	<roman>“ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā”ti</roman>
 	<zh>“来，贤友，我们入村或镇集食吧!”</zh>
 	<tai>ᨲᩔ ᨴᩤᨷᩮᨲ᩠ᩅᩣ ᩅᩤ ᩋᨴᩤᨷᩮᨲ᩠ᩅᩣ ᩅᩤ ᩏᨿᩮ᩠ᨿᩣᨩᩮᨿ᩠ᨿ</tai>
 	<my>တဿ ဒါပေတွာ ဝါ အဒါပေတွာ ဝါ ဥယျောဇေယျ</my>
 	<roman>tassa dāpetvā vā adāpetvā vā uyyojeyya</roman>
 	<zh>[无论]给与或未给而赶走他:</zh>
-	<tai>“ ᨣᨧ᩠ᨨᩣᩅᩩᩈᩮᩣ, ᨶ ᨾᩮ ᨲᨿᩣ ᩈᨴ᩠ᨵᩥᩴ</tai>
-	<my>“ ဂစ္ဆာဝုသော, န မေ တယာ သဒ္ဓိံ</my>
-	<roman>“ gacchāvuso, na me tayā saddhiṃ</roman>
+	<tai>“ᨣᨧ᩠ᨨᩣᩅᩩᩈᩮᩣ, ᨶ ᨾᩮ ᨲᨿᩣ ᩈᨴ᩠ᨵᩥᩴ</tai>
+	<my>“ဂစ္ဆာဝုသော, န မေ တယာ သဒ္ဓိံ</my>
+	<roman>“gacchāvuso, na me tayā saddhiṃ</roman>
 	<zh>“贤友，你走吧！我和你一起没办法</zh>
 	<tai>ᨠᨳᩣ ᩅᩤ ᨶᩥᩈᨩ᩠ᨩᩣ ᩅᩤ ᨹᩣᩈᩩ ᩉᩮᩣᨲᩥ,</tai>
 	<my>ကထာ ဝါ နိသဇ္ဇာ ဝါ ဖာသု ဟောတိ,</my>
 	<roman>kathā vā nisajjā vā phāsu hoti,</roman>
 	<zh>安乐，无论说话还是坐着，</zh>
-	<tai>ᩑᨠᨠᩔ ᨾᩮ ᨠᨳᩣ ᩅᩤ ᨶᩥᩈᨩ᩠ᨩᩣ ᩅᩤ ᨹᩣᩈᩩ ᩉᩮᩣᨲᩦ” ᨲᩥ</tai>
-	<my>ဧကကဿ မေ ကထာ ဝါ နိသဇ္ဇာ ဝါ ဖာသု ဟောတီ” တိ</my>
-	<roman>ekakassa me kathā vā nisajjā vā phāsu hotī” ti</roman>
+	<tai>ᩑᨠᨠᩔ ᨾᩮ ᨠᨳᩣ ᩅᩤ ᨶᩥᩈᨩ᩠ᨩᩣ ᩅᩤ ᨹᩣᩈᩩ ᩉᩮᩣᨲᩦ”ᨲᩥ</tai>
+	<my>ဧကကဿ မေ ကထာ ဝါ နိသဇ္ဇာ ဝါ ဖာသု ဟောတီ”တိ</my>
+	<roman>ekakassa me kathā vā nisajjā vā phāsu hotī”ti</roman>
 	<zh>我独自说话或坐着才安乐。”</zh>
 	<tai>ᩑᨲᨴᩮᩅ ᨷᨧ᩠ᨧᨿᩴ ᨠᩁᩥᨲ᩠ᩅᩣ ᩋᨶᨬ᩠ᨬᩴ, ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
 	<my>ဧတဒေဝ ပစ္စယံ ကရိတွာ အနညံ, ပါစိတ္တိယံ.</my>
@@ -829,13 +828,13 @@
 	<my>တတ္ထာယံ သမယော</my>
 	<roman>Tatthāyaṃ samayo</roman>
 	<zh>这是于此的适时：</zh>
-	<tai>“ ᨴᩥᨿᨯᩮ᩠ᨰᩣ ᨾᩣᩈᩮᩣ ᩈᩮᩈᩮᩣ ᨣᩥᨾ᩠ᩉᩣᨶᨶ᩠” ᨲᩥ</tai>
-	<my>“ ဒိယဍ္ဎော မာသော သေသော ဂိမှာနန္” တိ</my>
-	<roman>“ diyaḍḍho māso seso gimhānan” ti</roman>
+	<tai>“ᨴᩥᨿᨯᩮ᩠ᨰᩣ ᨾᩣᩈᩮᩣ ᩈᩮᩈᩮᩣ ᨣᩥᨾ᩠ᩉᩣᨶᨶ᩠”ᨲᩥ</tai>
+	<my>“ဒိယဍ္ဎော မာသော သေသော ဂိမှာနန္”တိ</my>
+	<roman>“diyaḍḍho māso seso gimhānan”ti</roman>
 	<zh>热季末後的一个半月、</zh>
-	<tai>“ ᩅᩔᩣᨶᩔ ᨷᨮᨾᩮᩣ ᨾᩣᩈᩮᩣ”</tai>
-	<my>“ ဝဿာနဿ ပဌမော မာသော”</my>
-	<roman>“ vassānassa paṭhamo māso”</roman>
+	<tai>“ᩅᩔᩣᨶᩔ ᨷᨮᨾᩮᩣ ᨾᩣᩈᩮᩣ”</tai>
+	<my>“ဝဿာနဿ ပဌမော မာသော”</my>
+	<roman>“vassānassa paṭhamo māso”</roman>
 	<zh>雨季的第一个月，</zh>
 	<tai>ᩍᨧᩮ᩠ᨧᨲᩮ ᩋᨯ᩠ᨰᨲᩮᨿ᩠ᨿᨾᩣᩈᩣ</tai>
 	<my>ဣစ္စေတေ အဍ္ဎတေယျမာသာ</my>
@@ -1010,25 +1009,25 @@
 	<my>ယော ပန ဘိက္ခု ဧဝံ ဝဒေယျ</my>
 	<roman>Yo pana bhikkhu evaṃ vadeyya</roman>
 	<zh>若比库如此说:</zh>
-	<tai>“ ᨲᨳᩣᩉᩴ ᨽᨣᩅᨲᩣ ᨵᨾᩜᩴ ᨴᩮᩈᩥᨲᩴ ᩋᩣᨩᩣᨶᩣᨾᩥ,</tai>
-	<my>“ တထာဟံ ဘဂဝတာ ဓမ္မံ ဒေသိတံ အာဇာနာမိ,</my>
-	<roman>“ tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi,</roman>
+	<tai>“ᨲᨳᩣᩉᩴ ᨽᨣᩅᨲᩣ ᨵᨾᩜᩴ ᨴᩮᩈᩥᨲᩴ ᩋᩣᨩᩣᨶᩣᨾᩥ,</tai>
+	<my>“တထာဟံ ဘဂဝတာ ဓမ္မံ ဒေသိတံ အာဇာနာမိ,</my>
+	<roman>“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi,</roman>
 	<zh>“如我所知跋葛瓦教导之法，</zh>
 	<tai>ᨿᨳᩣ ᨿᩮᨾᩮ ᩋᨶ᩠ᨲᩁᩣᨿᩥᨠᩣ ᨵᨾᩜᩣ ᩅᩩᨲ᩠ᨲᩣ ᨽᨣᩅᨲᩣ,</tai>
 	<my>ယထာ ယေမေ အန္တရာယိကာ ဓမ္မာ ဝုတ္တာ ဘဂဝတာ,</my>
 	<roman>yathā yeme antarāyikā dhammā vuttā bhagavatā,</roman>
 	<zh>若跋葛瓦所说的那些障碍法，</zh>
-	<tai>ᨲᩮ ᨷᨭᩥᩈᩮᩅᨲᩮᩣ ᨶᩣᩃᩴ ᩋᨶ᩠ᨲᩁᩣᨿᩣᨿᩣ” ᨲᩥ,</tai>
-	<my>တေ ပဋိသေဝတော နာလံ အန္တရာယာယာ” တိ,</my>
-	<roman>te paṭisevato nālaṃ antarāyāyā” ti,</roman>
+	<tai>ᨲᩮ ᨷᨭᩥᩈᩮᩅᨲᩮᩣ ᨶᩣᩃᩴ ᩋᨶ᩠ᨲᩁᩣᨿᩣᨿᩣ”ᨲᩥ,</tai>
+	<my>တေ ပဋိသေဝတော နာလံ အန္တရာယာယာ”တိ,</my>
+	<roman>te paṭisevato nālaṃ antarāyāyā”ti,</roman>
 	<zh>对从事它们者并不足以为障碍。”</zh>
 	<tai>ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨽᩥᨠ᩠ᨡᩪᩉᩥ ᩑᩅᨾᩔ ᩅᨧᨶᩦᨿᩮᩣ</tai>
 	<my>သော ဘိက္ခု ဘိက္ခူဟိ ဧဝမဿ ဝစနီယော</my>
 	<roman>so bhikkhu bhikkhūhi evamassa vacanīyo</roman>
 	<zh>比库们要如此劝告那个比库:</zh>
-	<tai>“ ᨾᩣᨿᩈᩜᩣ ᩑᩅᩴ ᩋᩅᨧ,</tai>
-	<my>“ မာယသ္မာ ဧဝံ အဝစ,</my>
-	<roman>“ māyasmā evaṃ avaca,</roman>
+	<tai>“ᨾᩣᨿᩈᩜᩣ ᩑᩅᩴ ᩋᩅᨧ,</tai>
+	<my>“မာယသ္မာ ဧဝံ အဝစ,</my>
+	<roman>“māyasmā evaṃ avaca,</roman>
 	<zh>“请具寿不要如此说，</zh>
 	<tai>ᨾᩣ ᨽᨣᩅᨶ᩠ᨲᩴ ᩋᨻ᩠ᨽᩣᨧᩥᨠ᩠ᨡᩥ,</tai>
 	<my>မာ ဘဂဝန္တံ အဗ္ဘာစိက္ခိ,</my>
@@ -1050,9 +1049,9 @@
 	<my>အန္တရာယိကာ ဓမ္မာ အန္တရာယိကာ ဝုတ္တာ ဘဂဝတာ,</my>
 	<roman>antarāyikā dhammā antarāyikā vuttā bhagavatā,</roman>
 	<zh>跋葛瓦说诸障碍法为障碍，</zh>
-	<tai>ᩋᩃᨬ᩠ᨧ ᨷᨶ ᨲᩮ ᨷᨭᩥᩈᩮᩅᨲᩮᩣ ᩋᨶ᩠ᨲᩁᩣᨿᩣᨿᩣ” ᨲᩥ. </tai>
-	<my>အလဉ္စ ပန တေ ပဋိသေဝတော အန္တရာယာယာ” တိ. </my>
-	<roman>alañca pana te paṭisevato antarāyāyā” ti. </roman>
+	<tai>ᩋᩃᨬ᩠ᨧ ᨷᨶ ᨲᩮ ᨷᨭᩥᩈᩮᩅᨲᩮᩣ ᩋᨶ᩠ᨲᩁᩣᨿᩣᨿᩣ”ᨲᩥ. </tai>
+	<my>အလဉ္စ ပန တေ ပဋိသေဝတော အန္တရာယာယာ”တိ. </my>
+	<roman>alañca pana te paṭisevato antarāyāyā”ti. </roman>
 	<zh>并对从事它们者足以为障碍。”</zh>
 	<tai>ᩑᩅᨬ᩠ᨧ ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨽᩥᨠ᩠ᨡᩪᩉᩥ ᩅᩩᨧ᩠ᨧᨾᩣᨶᩮᩣ ᨲᨳᩮᩅ ᨷᨣ᩠ᨣᨱ᩠ᩉᩮᨿ᩠ᨿ,</tai>
 	<my>ဧဝဉ္စ သော ဘိက္ခု ဘိက္ခူဟိ ဝုစ္စမာနော တထေဝ ပဂ္ဂဏှေယျ,</my>
@@ -1104,25 +1103,25 @@
 	<my>သမဏုဒ္ဒေသောပိ စေ ဧဝံ ဝဒေယျ</my>
 	<roman>Samaṇuddesopi ce evaṃ vadeyya</roman>
 	<zh>假如沙马内勒也如此说:</zh>
-	<tai>“ ᨲᨳᩣᩉᩴ ᨽᨣᩅᨲᩣ ᨵᨾᩜᩴ ᨴᩮᩈᩥᨲᩴ ᩋᩣᨩᩣᨶᩣᨾᩥ,</tai>
-	<my>“ တထာဟံ ဘဂဝတာ ဓမ္မံ ဒေသိတံ အာဇာနာမိ,</my>
-	<roman>“ tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi,</roman>
+	<tai>“ᨲᨳᩣᩉᩴ ᨽᨣᩅᨲᩣ ᨵᨾᩜᩴ ᨴᩮᩈᩥᨲᩴ ᩋᩣᨩᩣᨶᩣᨾᩥ,</tai>
+	<my>“တထာဟံ ဘဂဝတာ ဓမ္မံ ဒေသိတံ အာဇာနာမိ,</my>
+	<roman>“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi,</roman>
 	<zh>“如我所知跋葛瓦教导之法，</zh>
 	<tai>ᨿᨳᩣ ᨿᩮᨾᩮ ᩋᨶ᩠ᨲᩁᩣᨿᩥᨠᩣ ᨵᨾᩜᩣ ᩅᩩᨲ᩠ᨲᩣ ᨽᨣᩅᨲᩣ,</tai>
 	<my>ယထာ ယေမေ အန္တရာယိကာ ဓမ္မာ ဝုတ္တာ ဘဂဝတာ,</my>
 	<roman>yathā yeme antarāyikā dhammā vuttā bhagavatā,</roman>
 	<zh>若跋葛瓦所说的那些障碍法，</zh>
-	<tai>ᨲᩮ ᨷᨭᩥᩈᩮᩅᨲᩮᩣ ᨶᩣᩃᩴ ᩋᨶ᩠ᨲᩁᩣᨿᩣᨿᩣ” ᨲᩥ,</tai>
-	<my>တေ ပဋိသေဝတော နာလံ အန္တရာယာယာ” တိ,</my>
-	<roman>te paṭisevato nālaṃ antarāyāyā” ti,</roman>
+	<tai>ᨲᩮ ᨷᨭᩥᩈᩮᩅᨲᩮᩣ ᨶᩣᩃᩴ ᩋᨶ᩠ᨲᩁᩣᨿᩣᨿᩣ”ᨲᩥ,</tai>
+	<my>တေ ပဋိသေဝတော နာလံ အန္တရာယာယာ”တိ,</my>
+	<roman>te paṭisevato nālaṃ antarāyāyā”ti,</roman>
 	<zh>对从事它们者并不足以为障碍。”</zh>
 	<tai>ᩈᩮᩣ ᩈᨾᨱᩩᨴᩮ᩠ᨴᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩪᩉᩥ ᩑᩅᨾᩔ ᩅᨧᨶᩦᨿᩮᩣ</tai>
 	<my>သော သမဏုဒ္ဒေသော ဘိက္ခူဟိ ဧဝမဿ ဝစနီယော</my>
 	<roman>so samaṇuddeso bhikkhūhi evamassa vacanīyo</roman>
 	<zh>比库们应如此劝告那个沙马内勒:</zh>
-	<tai>“ ᨾᩣᩅᩩᩈᩮᩣ, ᩈᨾᨱᩩᨴᩮ᩠ᨴᩈ ᩑᩅᩴ ᩋᩅᨧ,</tai>
-	<my>“ မာဝုသော, သမဏုဒ္ဒေသ ဧဝံ အဝစ,</my>
-	<roman>“ māvuso, samaṇuddesa evaṃ avaca,</roman>
+	<tai>“ᨾᩣᩅᩩᩈᩮᩣ, ᩈᨾᨱᩩᨴᩮ᩠ᨴᩈ ᩑᩅᩴ ᩋᩅᨧ,</tai>
+	<my>“မာဝုသော, သမဏုဒ္ဒေသ ဧဝံ အဝစ,</my>
+	<roman>“māvuso, samaṇuddesa evaṃ avaca,</roman>
 	<zh>“沙马内勒贤友，请不要如此说，</zh>
 	<tai>ᨾᩣ ᨽᨣᩅᨶ᩠ᨲᩴ ᩋᨻ᩠ᨽᩣᨧᩥᨠ᩠ᨡᩥ,</tai>
 	<my>မာ ဘဂဝန္တံ အဗ္ဘာစိက္ခိ,</my>
@@ -1144,9 +1143,9 @@
 	<my>အန္တရာယိကာ ဓမ္မာ အန္တရာယိကာ ဝုတ္တာ ဘဂဝတာ,</my>
 	<roman>antarāyikā dhammā antarāyikā vuttā bhagavatā,</roman>
 	<zh>跋葛瓦说诸障碍法为障碍，</zh>
-	<tai>ᩋᩃᨬ᩠ᨧ ᨷᨶ ᨲᩮ ᨷᨭᩥᩈᩮᩅᨲᩮᩣ ᩋᨶ᩠ᨲᩁᩣᨿᩣᨿᩣ” ᨲᩥ,</tai>
-	<my>အလဉ္စ ပန တေ ပဋိသေဝတော အန္တရာယာယာ” တိ,</my>
-	<roman>alañca pana te paṭisevato antarāyāyā” ti,</roman>
+	<tai>ᩋᩃᨬ᩠ᨧ ᨷᨶ ᨲᩮ ᨷᨭᩥᩈᩮᩅᨲᩮᩣ ᩋᨶ᩠ᨲᩁᩣᨿᩣᨿᩣ”ᨲᩥ,</tai>
+	<my>အလဉ္စ ပန တေ ပဋိသေဝတော အန္တရာယာယာ”တိ,</my>
+	<roman>alañca pana te paṭisevato antarāyāyā”ti,</roman>
 	<zh>并对从事它们者足以为障碍。”</zh>
 	<tai>ᩑᩅᨬ᩠ᨧ ᩈᩮᩣ ᩈᨾᨱᩩᨴᩮ᩠ᨴᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩪᩉᩥ</tai>
 	<my>ဧဝဉ္စ သော သမဏုဒ္ဒေသော ဘိက္ခူဟိ</my>
@@ -1160,9 +1159,9 @@
 	<my>သော သမဏုဒ္ဒေသော ဘိက္ခူဟိ ဧဝမဿ ဝစနီယော</my>
 	<roman>so samaṇuddeso bhikkhūhi evamassa vacanīyo</roman>
 	<zh>比库们要对那个沙马内勒如此说:</zh>
-	<tai>“ ᩋᨩ᩠ᨩᨲᨣᩮ᩠ᨣ ᨲᩮ, ᩋᩣᩅᩩᩈᩮᩣ, ᩈᨾᨱᩩᨴᩮ᩠ᨴᩈ</tai>
-	<my>“ အဇ္ဇတဂ္ဂေ တေ, အာဝုသော, သမဏုဒ္ဒေသ</my>
-	<roman>“ ajjatagge te, āvuso, samaṇuddesa</roman>
+	<tai>“ᩋᨩ᩠ᨩᨲᨣᩮ᩠ᨣ ᨲᩮ, ᩋᩣᩅᩩᩈᩮᩣ, ᩈᨾᨱᩩᨴᩮ᩠ᨴᩈ</tai>
+	<my>“အဇ္ဇတဂ္ဂေ တေ, အာဝုသော, သမဏုဒ္ဒေသ</my>
+	<roman>“ajjatagge te, āvuso, samaṇuddesa</roman>
 	<zh>“沙马内勒贤友，从今以後你</zh>
 	<tai>ᨶ ᨧᩮᩅ ᩈᩮᩣ ᨽᨣᩅᩤ ᩈᨲ᩠ᨳᩣ ᩋᨷᨴᩥᩈᩥᨲᨻᩮ᩠ᨻᩣ,</tai>
 	<my>န စေဝ သော ဘဂဝါ သတ္ထာ အပဒိသိတဗ္ဗော,</my>
@@ -1180,9 +1179,9 @@
 	<my>သာပိ တေ နတ္ထိ,</my>
 	<roman>sāpi te natthi,</roman>
 	<zh>你却不行。</zh>
-	<tai>ᨧᩁ ᨷᩥᩁᩮ, ᩅᩥᨶᩔᩣ” ᨲᩥ. </tai>
-	<my>စရ ပိရေ, ဝိနဿာ” တိ. </my>
-	<roman>cara pire, vinassā” ti. </roman>
+	<tai>ᨧᩁ ᨷᩥᩁᩮ, ᩅᩥᨶᩔᩣ”ᨲᩥ. </tai>
+	<my>စရ ပိရေ, ဝိနဿာ”တိ. </my>
+	<roman>cara pire, vinassā”ti. </roman>
 	<zh>不讨喜者走吧！消失吧!”</zh>
 	<tai>ᨿᩮᩣ ᨷᨶ ᨽᩥᨠ᩠ᨡᩩ ᨩᩣᨶᩴ ᨲᨳᩣᨶᩣᩈᩥᨲᩴ ᩈᨾᨱᩩᨴᩮ᩠ᨴᩈᩴ</tai>
 	<my>ယော ပန ဘိက္ခု ဇာနံ တထာနာသိတံ သမဏုဒ္ဒေသံ</my>
@@ -1215,17 +1214,17 @@
 	<my>သဟဓမ္မိကံ ဝုစ္စမာနော ဧဝံ ဝဒေယျ</my>
 	<roman>saha-dhammikaṃ vuccamāno evaṃ vadeyya</roman>
 	<zh>如法劝告时如此说:</zh>
-	<tai>“ ᨶ ᨲᩣᩅᩤᩉᩴ, ᩋᩣᩅᩩᩈᩮᩣ,</tai>
-	<my>“ န တာဝါဟံ, အာဝုသော,</my>
-	<roman>“ na tāvāhaṃ, āvuso,</roman>
+	<tai>“ᨶ ᨲᩣᩅᩤᩉᩴ, ᩋᩣᩅᩩᩈᩮᩣ,</tai>
+	<my>“န တာဝါဟံ, အာဝုသော,</my>
+	<roman>“na tāvāhaṃ, āvuso,</roman>
 	<zh>“贤友们，我不会</zh>
 	<tai>ᩑᨲᩈᩜᩥᩴ ᩈᩥᨠ᩠ᨡᩣᨷᨴᩮ ᩈᩥᨠ᩠ᨡᩥᩔᩣᨾᩥ,</tai>
 	<my>ဧတသ္မိံ သိက္ခာပဒေ သိက္ခိဿာမိ,</my>
 	<roman>etasmiṃ sikkhā-pade sikkhissāmi,</roman>
 	<zh>会在此学处训练</zh>
-	<tai>ᨿᩣᩅ ᨶ ᩋᨬ᩠ᨬᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᨻ᩠ᨿᨲ᩠ᨲᩴ ᩅᩥᨶᨿᨵᩁᩴ ᨷᩁᩥᨷᩩᨧ᩠ᨨᩣᨾᩦ” ᨲᩥ, ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ. </tai>
-	<my>ယာဝ န အညံ ဘိက္ခုံ ဗျတ္တံ ဝိနယဓရံ ပရိပုစ္ဆာမီ” တိ, ပါစိတ္တိယံ. </my>
-	<roman>yāva na aññaṃ bhikkhuṃ byattaṃ vinaya-dharaṃ paripucchāmī” ti, pācittiyaṃ. </roman>
+	<tai>ᨿᩣᩅ ᨶ ᩋᨬ᩠ᨬᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᨻ᩠ᨿᨲ᩠ᨲᩴ ᩅᩥᨶᨿᨵᩁᩴ ᨷᩁᩥᨷᩩᨧ᩠ᨨᩣᨾᩦ”ᨲᩥ, ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ. </tai>
+	<my>ယာဝ န အညံ ဘိက္ခုံ ဗျတ္တံ ဝိနယဓရံ ပရိပုစ္ဆာမီ”တိ, ပါစိတ္တိယံ. </my>
+	<roman>yāva na aññaṃ bhikkhuṃ byattaṃ vinaya-dharaṃ paripucchāmī”ti, pācittiyaṃ. </roman>
 	<zh>除非询问其他贤明的持律比库。”巴吉帝亚。</zh>
 	<tai>ᩈᩥᨠ᩠ᨡᨾᩣᨶᩮᨶ, ᨽᩥᨠ᩠ᨡᩅᩮ, ᨽᩥᨠ᩠ᨡᩩᨶᩣ</tai>
 	<my>သိက္ခမာနေန, ဘိက္ခဝေ, ဘိက္ခုနာ</my>
@@ -1244,9 +1243,9 @@
 	<my>ယော ပန ဘိက္ခု ပါတိမောက္ခေ ဥဒ္ဒိဿမာနေ ဧဝံ ဝဒေယျ</my>
 	<roman>Yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya</roman>
 	<zh>若比库在诵巴帝摩卡时如此说:</zh>
-	<tai>“ ᨠᩥᩴ ᨷᨶᩥᨾᩮᩉᩥ ᨡᩩᨴ᩠ᨴᩤᨶᩩᨡᩩᨴ᩠ᨴᨠᩮᩉᩥ</tai>
-	<my>“ ကိံ ပနိမေဟိ ခုဒ္ဒါနုခုဒ္ဒကေဟိ</my>
-	<roman>“ kiṃ pan(a) imehi khudda-anukhuddakehi</roman>
+	<tai>“ᨠᩥᩴ ᨷᨶᩥᨾᩮᩉᩥ ᨡᩩᨴ᩠ᨴᩤᨶᩩᨡᩩᨴ᩠ᨴᨠᩮᩉᩥ</tai>
+	<my>“ကိံ ပနိမေဟိ ခုဒ္ဒါနုခုဒ္ဒကေဟိ</my>
+	<roman>“kiṃ pan(a) imehi khudda-anukhuddakehi</roman>
 	<zh>“为什么这些微细又微细</zh>
 	<tai>ᩈᩥᨠ᩠ᨡᩣᨷᨴᩮᩉᩥ ᩏᨴ᩠ᨴᩥᨭᩛᩮᩉᩥ,</tai>
 	<my>သိက္ခာပဒေဟိ ဥဒ္ဒိဋ္ဌေဟိ,</my>
@@ -1256,9 +1255,9 @@
 	<my>ယာဝဒေဝ ကုက္ကုစ္စာယ ဝိဟေသာယ</my>
 	<roman>yāvadeva kukkuccāya vihesāya</roman>
 	<zh>那只会导致疑悔、烦扰、</zh>
-	<tai>ᩅᩥᩃᩮᨡᩣᨿ ᩈᩴᩅᨲ᩠ᨲᨶ᩠ᨲᩦ” ᨲᩥ,</tai>
-	<my>ဝိလေခါယ သံဝတ္တန္တီ” တိ,</my>
-	<roman>vilekhāya saṃvattantī” ti,</roman>
+	<tai>ᩅᩥᩃᩮᨡᩣᨿ ᩈᩴᩅᨲ᩠ᨲᨶ᩠ᨲᩦ”ᨲᩥ,</tai>
+	<my>ဝိလေခါယ သံဝတ္တန္တီ”တိ,</my>
+	<roman>vilekhāya saṃvattantī”ti,</roman>
 	<zh>困惑的发生。”</zh>
 	<tai>ᩈᩥᨠ᩠ᨡᩣᨷᨴ-ᩅᩥᩅᨱ᩠ᨱᨠᩮ ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
 	<my>သိက္ခာပဒ-ဝိဝဏ္ဏကေ ပါစိတ္တိယံ.</my>
@@ -1269,17 +1268,17 @@
 	<my>ယော ပန ဘိက္ခု အနွဒ္ဓမာသံ ပါတိမောက္ခေ ဥဒ္ဒိဿမာနေ ဧဝံ ဝဒေယျ</my>
 	<roman>Yo pana bhikkhu anvaddha-māsaṃ pātimokkhe uddissamāne evaṃ vadeyya</roman>
 	<zh>若比库在每半月诵巴帝摩卡时如此说:</zh>
-	<tai>“ ᩍᨴᩤᨶᩮᩅ ᨡᩮᩣ ᩋᩉᩴ ᨩᩣᨶᩣᨾᩥ,</tai>
-	<my>“ ဣဒါနေဝ ခေါ အဟံ ဇာနာမိ,</my>
-	<roman>“ idān(i) eva kho ahaṃ jānāmi,</roman>
+	<tai>“ᩍᨴᩤᨶᩮᩅ ᨡᩮᩣ ᩋᩉᩴ ᨩᩣᨶᩣᨾᩥ,</tai>
+	<my>“ဣဒါနေဝ ခေါ အဟံ ဇာနာမိ,</my>
+	<roman>“idān(i) eva kho ahaṃ jānāmi,</roman>
 	<zh>“我现在才知道</zh>
 	<tai>ᩋᨿᨾ᩠ᨷᩥ ᨠᩥᩁ ᨵᨾᩮᩜᩣ ᩈᩩᨲ᩠ᨲᩣᨣᨲᩮᩣ ᩈᩩᨲ᩠ᨲᨷᩁᩥᨿᩣᨷᨶᩮᩣ᩠ᨶ</tai>
 	<my>အယမ္ပိ ကိရ ဓမ္မော သုတ္တာဂတော သုတ္တပရိယာပန္နော</my>
 	<roman>ayampi kira dhammo suttāgato sutta-pariyāpanno</roman>
 	<zh>此法收录在经中，系属于经，</zh>
-	<tai>ᩋᨶ᩠ᩅᨴ᩠ᨵᨾᩣᩈᩴ ᩏᨴᩮ᩠ᨴᩈᩴ ᩋᩣᨣᨧ᩠ᨨᨲᩦ” ᨲᩥ. </tai>
-	<my>အနွဒ္ဓမာသံ ဥဒ္ဒေသံ အာဂစ္ဆတီ” တိ. </my>
-	<roman>anvaddha-māsaṃ uddesaṃ āgacchatī” ti. </roman>
+	<tai>ᩋᨶ᩠ᩅᨴ᩠ᨵᨾᩣᩈᩴ ᩏᨴᩮ᩠ᨴᩈᩴ ᩋᩣᨣᨧ᩠ᨨᨲᩦ”ᨲᩥ. </tai>
+	<my>အနွဒ္ဓမာသံ ဥဒ္ဒေသံ အာဂစ္ဆတီ”တိ. </my>
+	<roman>anvaddha-māsaṃ uddesaṃ āgacchatī”ti. </roman>
 	<zh>在每半月诵出来。”</zh>
 	<tai>ᨲᨬᩮ᩠ᨧ ᨽᩥᨠ᩠ᨡᩩᩴ ᩋᨬᩮ᩠ᨬ ᨽᩥᨠ᩠ᨡᩪ ᨩᩣᨶᩮᨿ᩠ᨿᩩᩴ ᨶᩥᩈᩥᨶ᩠ᨶᨷᩩᨻ᩠ᨻᩴ</tai>
 	<my>တဉ္စေ ဘိက္ခုံ အညေ ဘိက္ခူ ဇာနေယျုံ နိသိန္နပုဗ္ဗံ</my>
@@ -1309,9 +1308,9 @@
 	<my>ဥတ္တရိ စဿ မောဟော အာရောပေတဗ္ဗော</my>
 	<roman>uttari cassa moho āropetabbo</roman>
 	<zh>更应呵责其愚痴:</zh>
-	<tai>“ ᨲᩔ ᨲᩮ, ᩋᩣᩅᩩᩈᩮᩣ, ᩋᩃᩣᨽᩣ,</tai>
-	<my>“ တဿ တေ, အာဝုသော, အလာဘာ,</my>
-	<roman>“ tassa te, āvuso, alābhā,</roman>
+	<tai>“ᨲᩔ ᨲᩮ, ᩋᩣᩅᩩᩈᩮᩣ, ᩋᩃᩣᨽᩣ,</tai>
+	<my>“တဿ တေ, အာဝုသော, အလာဘာ,</my>
+	<roman>“tassa te, āvuso, alābhā,</roman>
 	<zh>“贤友，这对你不利，</zh>
 	<tai>ᨲᩔ ᨲᩮ ᨴᩩᩃ᩠ᩃᨴ᩠ᨵᩴ, ᨿᩴ ᨲ᩠ᩅᩴ ᨷᩤᨲᩥᨾᩮᩣᨠᩮ᩠ᨡ ᩏᨴ᩠ᨴᩥᩔᨾᩣᨶᩮ</tai>
 	<my>တဿ တေ ဒုလ္လဒ္ဓံ, ယံ တွံ ပါတိမောက္ခေ ဥဒ္ဒိဿမာနေ</my>
@@ -1321,9 +1320,9 @@
 	<my>န သာဓုကံ အဋ္ဌိံ ကတွာ</my>
 	<roman>na sādhukaṃ aṭṭhiṃ katvā</roman>
 	<zh>不好好地用心对待</zh>
-	<tai>ᨾᨶᩈᩥ ᨠᩁᩮᩣᩈᩦ” ᨲᩥ,</tai>
-	<my>မနသိ ကရောသီ” တိ,</my>
-	<roman>manasi karosī” ti,</roman>
+	<tai>ᨾᨶᩈᩥ ᨠᩁᩮᩣᩈᩦ”ᨲᩥ,</tai>
+	<my>မနသိ ကရောသီ”တိ,</my>
+	<roman>manasi karosī”ti,</roman>
 	<zh>专心致志。”</zh>
 	<tai>ᩍᨴᩴ ᨲᩈᩜᩥᩴ ᨾᩮᩣᩉᨶᨠᩮ ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
 	<my>ဣဒံ တသ္မိံ မောဟနကေ ပါစိတ္တိယံ.</my>
@@ -1353,9 +1352,9 @@
 	<my>ယော ပန ဘိက္ခု ဘိက္ခုဿ သဉ္စိစ္စ ကုက္ကုစ္စံ ဥပဒဟေယျ</my>
 	<roman>Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya</roman>
 	<zh>若比库故意致使比库疑悔:</zh>
-	<tai>“ ᩍᨲᩥᩔ ᨾᩩᩉᩩᨲ᩠ᨲᨾ᩠ᨷᩥ ᩋᨹᩣᩈᩩ ᨽᩅᩥᩔᨲᩦ” ᨲᩥ</tai>
-	<my>“ ဣတိဿ မုဟုတ္တမ္ပိ အဖာသု ဘဝိဿတီ” တိ</my>
-	<roman>“ itissa muhuttampi aphāsu bhavissatī” ti</roman>
+	<tai>“ᩍᨲᩥᩔ ᨾᩩᩉᩩᨲ᩠ᨲᨾ᩠ᨷᩥ ᩋᨹᩣᩈᩩ ᨽᩅᩥᩔᨲᩦ”ᨲᩥ</tai>
+	<my>“ဣတိဿ မုဟုတ္တမ္ပိ အဖာသု ဘဝိဿတီ”တိ</my>
+	<roman>“itissa muhuttampi aphāsu bhavissatī”ti</roman>
 	<zh>“由此他将会短暂地不安乐。”</zh>
 	<tai>ᩑᨲᨴᩮᩅ ᨷᨧ᩠ᨧᨿᩴ ᨠᩁᩥᨲ᩠ᩅᩣ ᩋᨶᨬ᩠ᨬᩴ, ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
 	<my>ဧတဒေဝ ပစ္စယံ ကရိတွာ အနညံ, ပါစိတ္တိယံ.</my>
@@ -1370,9 +1369,9 @@
 	<my>ကလဟဇာတာနံ ဝိဝါဒါပန္နာနံ ဥပဿုတိံ တိဋ္ဌေယျ</my>
 	<roman>kalaha-jātānaṃ vivāda-āpannānaṃ upassutiṃ tiṭṭheyya</roman>
 	<zh>纷争、陷入分歧时站在能偷听到[他们]的地方:</zh>
-	<tai>“ ᨿᩴ ᩍᨾᩮ ᨽᨱᩥᩔᨶ᩠ᨲᩥ, ᨲᩴ ᩈᩮᩣᩔᩣᨾᩦ” ᨲᩥ</tai>
-	<my>“ ယံ ဣမေ ဘဏိဿန္တိ, တံ သောဿာမီ” တိ</my>
-	<roman>“ yaṃ ime bhaṇissanti, taṃ sossāmī” ti</roman>
+	<tai>“ᨿᩴ ᩍᨾᩮ ᨽᨱᩥᩔᨶ᩠ᨲᩥ, ᨲᩴ ᩈᩮᩣᩔᩣᨾᩦ”ᨲᩥ</tai>
+	<my>“ယံ ဣမေ ဘဏိဿန္တိ, တံ သောဿာမီ”တိ</my>
+	<roman>“yaṃ ime bhaṇissanti, taṃ sossāmī”ti</roman>
 	<zh>“我要听听这些人所说的。”</zh>
 	<tai>ᩑᨲᨴᩮᩅ ᨷᨧ᩠ᨧᨿᩴ ᨠᩁᩥᨲ᩠ᩅᩣ ᩋᨶᨬ᩠ᨬᩴ, ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
 	<my>ဧတဒေဝ ပစ္စယံ ကရိတွာ အနညံ, ပါစိတ္တိယံ.</my>
@@ -1405,9 +1404,9 @@
 	<my>ပစ္ဆာ ခီယနဓမ္မံ အာပဇ္ဇေယျ</my>
 	<roman>pacchā khīyana-dhammaṃ āpajjeyya</roman>
 	<zh>事後却表示不满</zh>
-	<tai>“ ᨿᨳᩣᩈᨶ᩠ᨳᩩᨲᩴ ᨽᩥᨠ᩠ᨡᩪ ᩈᩘᨥᩥᨠᩴ ᩃᩣᨽᩴ ᨷᩁᩥᨱᩣᨾᩮᨶ᩠ᨲᩦ” ᨲᩥ, ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
-	<my>“ ယထာသန္ထုတံ ဘိက္ခူ သင်္ဃိကံ လာဘံ ပရိဏာမေန္တီ” တိ, ပါစိတ္တိယံ.</my>
-	<roman>“ yathā-santhutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī” ti, pācittiyaṃ.</roman>
+	<tai>“ᨿᨳᩣᩈᨶ᩠ᨳᩩᨲᩴ ᨽᩥᨠ᩠ᨡᩪ ᩈᩘᨥᩥᨠᩴ ᩃᩣᨽᩴ ᨷᩁᩥᨱᩣᨾᩮᨶ᩠ᨲᩦ”ᨲᩥ, ᨷᩤᨧᩥᨲ᩠ᨲᩥᨿᩴ.</tai>
+	<my>“ယထာသန္ထုတံ ဘိက္ခူ သင်္ဃိကံ လာဘံ ပရိဏာမေန္တီ”တိ, ပါစိတ္တိယံ.</my>
+	<roman>“yathā-santhutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī”ti, pācittiyaṃ.</roman>
 	<zh>“比库们使僧团的所得转给按相熟的”者，巴吉帝亚。</zh>
 82. 
 	<tai>ᨿᩮᩣ ᨷᨶ ᨽᩥᨠ᩠ᨡᩩ ᨩᩣᨶᩴ ᩈᩘᨥᩥᨠᩴ ᩃᩣᨽᩴ ᨷᩁᩥᨱᨲᩴ</tai>
@@ -1470,9 +1469,9 @@
 	<my>ဥဂ္ဂဟေတွာ ဝါ ဥဂ္ဂဟာပေတွာ ဝါ နိက္ခိပိတဗ္ဗံ</my>
 	<roman>uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ</roman>
 	<zh>捉持或令捉持後应被收藏:</zh>
-	<tai>“ ᨿᩔ ᨽᩅᩥᩔᨲᩥ, ᩈᩮᩣ ᩉᩁᩥᩔᨲᩦ” ᨲᩥ,</tai>
-	<my>“ ယဿ ဘဝိဿတိ, သော ဟရိဿတီ” တိ,</my>
-	<roman>“ yassa bhavissati, so harissatī” ti,</roman>
+	<tai>“ᨿᩔ ᨽᩅᩥᩔᨲᩥ, ᩈᩮᩣ ᩉᩁᩥᩔᨲᩦ”ᨲᩥ,</tai>
+	<my>“ယဿ ဘဝိဿတိ, သော ဟရိဿတီ”တိ,</my>
+	<roman>“yassa bhavissati, so harissatī”ti,</roman>
 	<zh>“属于谁的他将拿回。”</zh>
 	<tai>ᩋᨿᩴ ᨲᨲ᩠ᨳ ᩈᩣᨾᩦᨧᩥ.</tai>
 	<my>အယံ တတ္ထ သာမီစိ.</my>

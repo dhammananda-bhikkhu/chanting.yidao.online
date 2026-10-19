@@ -1,6 +1,6 @@
 <div id="lyriccontainer" class="def-lyric" style="background-image:url('https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E8%AF%B5%E6%88%92.png');background-size:cover;--full-font-size: 4vmin;--default-font-size: 1.6rem;">
 	<div id="line-tools">
-		<input type="checkbox" id='lyricSleep'>禁止熄屏</input>
+		<input type="checkbox" id='lyricSleep'>禁止熄屏
 		<button id='lyricFullscreen'>全屏播放</button>
 		<button id='lyricBigger'>加大字体</button>
 		<button id='lyricSmaller'>缩小字体</button>
@@ -32,12 +32,11 @@
     </span>
     </div>
 	<audio id="audio" controls style="width: 100%;">
-	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/6.%20Timsa%20Nissaggiya%20Pacittiya%20Dhamma.mp3" >
+	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/6.%20Timsa%20Nissaggiya%20Pacittiya%20Dhamma.mp3" ></sourceList>
 	</audio>
 </div>
 <div class="share-component" data-disabled="google,twitter,facebook" data-description="一键分享到微博，QQ空间，腾讯微博，人人，豆瓣">
     </div>
-<div>
 
 
 # 舍心堕落 nissaggiya-pācittiya
@@ -237,13 +236,13 @@
     <my>စီဝရ-စေတာပန္နံ ဥပက္ခဋံ ဟောတိ</my>
     <roman>cīvara-cetāpannaṃ upakkhaṭaṃ hoti</roman>
     <zh>衣资已准备；</zh>
-    <tai>“ ᩍᨾᩥᨶᩣ ᨧᩦᩅᩁ-ᨧᩮᨲᩣᨷᨶᩮ᩠ᨶᨶ ᨧᩦᩅᩁᩴ ᨧᩮᨲᩣᨷᩮᨲ᩠ᩅᩣ</tai>
-    <my>“ ဣမိနာ စီဝရ-စေတာပန္နေန စီဝရံ စေတာပေတွာ</my>
-    <roman>“ iminā cīvara-cetāpannena cīvaraṃ cetāpetvā</roman>
+    <tai>“ᩍᨾᩥᨶᩣ ᨧᩦᩅᩁ-ᨧᩮᨲᩣᨷᨶᩮ᩠ᨶᨶ ᨧᩦᩅᩁᩴ ᨧᩮᨲᩣᨷᩮᨲ᩠ᩅᩣ</tai>
+    <my>“ဣမိနာ စီဝရ-စေတာပန္နေန စီဝရံ စေတာပေတွာ</my>
+    <roman>“iminā cīvara-cetāpannena cīvaraṃ cetāpetvā</roman>
     <zh>以此衣资交换衣后，</zh>
-    <tai>ᩍᨲ᩠ᨳᨶᩣ᩠ᨶᨾᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᨧᩦᩅᩁᩮᨶ ᩋᨧ᩠ᨨᩣᨴᩮᩔᩣᨾᩦ” ᨲᩥ,</tai>
-    <my>ဣတ္ထန္နာမံ ဘိက္ခုံ စီဝရေန အစ္ဆာဒေဿာမီ” တိ,</my>
-    <roman>itthan-nāmaṃ bhikkhuṃ cīvarena acchādessāmī” ti,</roman>
+    <tai>ᩍᨲ᩠ᨳᨶᩣ᩠ᨶᨾᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᨧᩦᩅᩁᩮᨶ ᩋᨧ᩠ᨨᩣᨴᩮᩔᩣᨾᩦ”ᨲᩥ,</tai>
+    <my>ဣတ္ထန္နာမံ ဘိက္ခုံ စီဝရေန အစ္ဆာဒေဿာမီ”တိ,</my>
+    <roman>itthan-nāmaṃ bhikkhuṃ cīvarena acchādessāmī”ti,</roman>
     <zh>我将送衣给某某比库披着。”</zh>
     <tai>ᨲᨲᩕ ᨧᩮ ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨷᩩᨻᩮ᩠ᨻ ᩋᨷ᩠ᨷᩅᩤᩁᩥᨲᩮᩣ</tai>
     <my>တတြ စေ သော ဘိက္ခု ပုဗ္ဗေ အပ္ပဝါရိတော</my>
@@ -253,9 +252,9 @@
     <my>ဥပသင်္ကမိတွာ စီဝရေ ဝိကပ္ပံ အာပဇ္ဇေယျ</my>
     <roman>upasaṅkamitvā cīvare vikappaṃ āpajjeyya</roman>
     <zh>就前往对衣作指示：</zh>
-    <tai>“ ᩈᩣᨵᩩ ᩅᨲ ᨾᩴ ᩋᩣᨿᩈᩜᩣ</tai>
-    <my>“ သာဓု ဝတ မံ အာယသ္မာ</my>
-    <roman>“ sādhu vata maṃ āyasmā</roman>
+    <tai>“ᩈᩣᨵᩩ ᩅᨲ ᨾᩴ ᩋᩣᨿᩈᩜᩣ</tai>
+    <my>“သာဓု ဝတ မံ အာယသ္မာ</my>
+    <roman>“sādhu vata maṃ āyasmā</roman>
     <zh>“具寿，实在很好！</zh>
     <tai>ᩍᨾᩥᨶᩣ ᨧᩦᩅᩁ-ᨧᩮᨲᩣᨷᨶᩮ᩠ᨶᨶ</tai>
     <my>ဣမိနာ စီဝရ-စေတာပန္နေန</my>
@@ -265,9 +264,9 @@
     <my>ဧဝရူပံ ဝါ ဧဝရူပံ ဝါ</my>
     <roman>evarūpaṃ vā evarūpaṃ vā</roman>
     <zh>这样或那样的</zh>
-    <tai>ᨧᩦᩅᩁᩴ ᨧᩮᨲᩣᨷᩮᨲ᩠ᩅᩣ ᩋᨧ᩠ᨨᩣᨴᩮᩉᩦ” ᨲᩥ</tai>
-    <my>စီဝရံ စေတာပေတွာ အစ္ဆာဒေဟီ” တိ</my>
-    <roman>cīvaraṃ cetāpetvā acchādehī” ti</roman>
+    <tai>ᨧᩦᩅᩁᩴ ᨧᩮᨲᩣᨷᩮᨲ᩠ᩅᩣ ᩋᨧ᩠ᨨᩣᨴᩮᩉᩦ”ᨲᩥ</tai>
+    <my>စီဝရံ စေတာပေတွာ အစ္ဆာဒေဟီ”တိ</my>
+    <roman>cīvaraṃ cetāpetvā acchādehī”ti</roman>
     <zh>衣给我披着。”</zh>
     <tai>ᨠᩃ᩠ᨿᩋᩣᨱ-ᨠᨾ᩠ᨿᩋᨲᩴ ᩏᨷᩤᨴᩤᨿ,</tai>
     <my>ကလျာဏ-ကမျတံ ဥပါဒါယ,</my>
@@ -290,17 +289,17 @@
     <my>ပစ္စေက-စီဝရ-စေတာပန္နာနိ ဥပက္ခဋာနိ ဟောန္တိ</my>
     <roman>pacceka-cīvara-cetāpannāni upakkhaṭāni honti</roman>
     <zh>各别准备了衣资：</zh>
-    <tai>“ ᩍᨾᩮᩉᩥ ᨾᨿᩴ ᨷᨧᩮ᩠ᨧᨠ-ᨧᩦᩅᩁ-ᨧᩮᨲᩣᨷᨶᩮ᩠ᨶᩉᩥ</tai>
-    <my>“ ဣမေဟိ မယံ ပစ္စေက-စီဝရ-စေတာပန္နေဟိ</my>
-    <roman>“ imehi mayaṃ pacceka-cīvara-cetāpannehi</roman>
+    <tai>“ᩍᨾᩮᩉᩥ ᨾᨿᩴ ᨷᨧᩮ᩠ᨧᨠ-ᨧᩦᩅᩁ-ᨧᩮᨲᩣᨷᨶᩮ᩠ᨶᩉᩥ</tai>
+    <my>“ဣမေဟိ မယံ ပစ္စေက-စီဝရ-စေတာပန္နေဟိ</my>
+    <roman>“imehi mayaṃ pacceka-cīvara-cetāpannehi</roman>
     <zh>“我们以这些各别的衣资</zh>
     <tai>ᨷᨧᩮ᩠ᨧᨠ-ᨧᩦᩅᩁᩣᨶᩥ ᨧᩮᨲᩣᨷᩮᨲ᩠ᩅᩣ</tai>
     <my>ပစ္စေက-စီဝရာနိ စေတာပေတွာ</my>
     <roman>pacceka-cīvarāni cetāpetvā</roman>
     <zh>交换各别的衣后，</zh>
-    <tai>ᩍᨲ᩠ᨳᨶᩣ᩠ᨶᨾᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᨧᩦᩅᩁᩮᩉᩥ ᩋᨧ᩠ᨨᩣᨴᩮᩔᩣᨾᩣ” ᨲᩥ, </tai>
-    <my>ဣတ္ထန္နာမံ ဘိက္ခုံ စီဝရေဟိ အစ္ဆာဒေဿာမာ” တိ, </my>
-    <roman>itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā” ti, </roman>
+    <tai>ᩍᨲ᩠ᨳᨶᩣ᩠ᨶᨾᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᨧᩦᩅᩁᩮᩉᩥ ᩋᨧ᩠ᨨᩣᨴᩮᩔᩣᨾᩣ”ᨲᩥ, </tai>
+    <my>ဣတ္ထန္နာမံ ဘိက္ခုံ စီဝရေဟိ အစ္ဆာဒေဿာမာ”တိ, </my>
+    <roman>itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā”ti, </roman>
     <zh>我们将送衣给某某比库披着。”</zh>
     <tai>ᨲᨲᩕ ᨧᩮ ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨷᩩᨻᩮ᩠ᨻ ᩋᨷ᩠ᨷᩅᩤᩁᩥᨲᩮᩣ</tai>
     <my>တတြ စေ သော ဘိက္ခု ပုဗ္ဗေ အပ္ပဝါရိတော</my>
@@ -310,9 +309,9 @@
     <my>ဥပသင်္ကမိတွာ စီဝရေ ဝိကပ္ပံ အာပဇ္ဇေယျ</my>
     <roman>upasaṅkamitvā cīvare vikappaṃ āpajjeyya</roman>
     <zh>就前往对衣作指示：</zh>
-    <tai>“ ᩈᩣᨵᩩ ᩅᨲ ᨾᩴ ᩋᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ</tai>
-    <my>“ သာဓု ဝတ မံ အာယသ္မန္တော</my>
-    <roman>“ sādhu vata maṃ āyasmanto</roman>
+    <tai>“ᩈᩣᨵᩩ ᩅᨲ ᨾᩴ ᩋᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ</tai>
+    <my>“သာဓု ဝတ မံ အာယသ္မန္တော</my>
+    <roman>“sādhu vata maṃ āyasmanto</roman>
     <zh>“具寿们，实在很好！</zh>
     <tai>ᩍᨾᩮᩉᩥ ᨷᨧᩮ᩠ᨧᨠ-ᨧᩦᩅᩁ-ᨧᩮᨲᩣᨷᨶᩮ᩠ᨶᩉᩥ</tai>
     <my>ဣမေဟိ ပစ္စေက-စီဝရ-စေတာပန္နေဟိ</my>
@@ -326,9 +325,9 @@
     <my>စီဝရံ စေတာပေတွာ</my>
     <roman>cīvaraṃ cetāpetvā</roman>
     <zh>衣交换后</zh>
-    <tai>ᩋᨧ᩠ᨨᩣᨴᩮᨳ ᩏᨽᩮᩣᩅ ᩈᨶᩣ᩠ᨲ ᩑᨠᩮᨶᩣ” ᨲᩥ</tai>
-    <my>အစ္ဆာဒေထ ဥဘောဝ သန္တာ ဧကေနာ” တိ</my>
-    <roman>acchādetha ubhova santā ekenā” ti</roman>
+    <tai>ᩋᨧ᩠ᨨᩣᨴᩮᨳ ᩏᨽᩮᩣᩅ ᩈᨶᩣ᩠ᨲ ᩑᨠᩮᨶᩣ”ᨲᩥ</tai>
+    <my>အစ္ဆာဒေထ ဥဘောဝ သန္တာ ဧကေနာ”တိ</my>
+    <roman>acchādetha ubhova santā ekenā”ti</roman>
     <zh>给我披着，[衣资]合二为一”</zh>
     <tai>ᨠᩃ᩠ᨿᩋᩣᨱ-ᨠᨾ᩠ᨿᩋᨲᩴ ᩏᨷᩤᨴᩤᨿ, </tai>
     <my>ကလျာဏ-ကမျတံ ဥပါဒါယ, </my>
@@ -355,49 +354,49 @@
     <my>ဒူတေန စီဝရ-စေတာပန္နံ ပဟိဏေယျ</my>
     <roman>dūtena cīvara-cetāpannaṃ pahiṇeyya</roman>
     <zh>派使者送衣资：</zh>
-    <tai>“ ᩍᨾᩥᨶᩣ ᨧᩦᩅᩁ-ᨧᩮᨲᩣᨷᨶᩮ᩠ᨶᨶ ᨧᩦᩅᩁᩴ ᨧᩮᨲᩣᨷᩮᨲ᩠ᩅᩣ</tai>
-    <my>“ ဣမိနာ စီဝရ-စေတာပန္နေန စီဝရံ စေတာပေတွာ</my>
-    <roman>“ iminā cīvara-cetāpannena cīvaraṃ cetāpetvā</roman>
+    <tai>“ᩍᨾᩥᨶᩣ ᨧᩦᩅᩁ-ᨧᩮᨲᩣᨷᨶᩮ᩠ᨶᨶ ᨧᩦᩅᩁᩴ ᨧᩮᨲᩣᨷᩮᨲ᩠ᩅᩣ</tai>
+    <my>“ဣမိနာ စီဝရ-စေတာပန္နေန စီဝရံ စေတာပေတွာ</my>
+    <roman>“iminā cīvara-cetāpannena cīvaraṃ cetāpetvā</roman>
     <zh>“请你以此衣资交换衣后，</zh>
-    <tai>ᩍᨲ᩠ᨳᨶᩣ᩠ᨶᨾᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᨧᩦᩅᩁᩮᨶ ᩋᨧ᩠ᨨᩣᨴᩮᩉᩦ” ᨲᩥ. </tai>
-    <my>ဣတ္ထန္နာမံ ဘိက္ခုံ စီဝရေန အစ္ဆာဒေဟီ” တိ. </my>
-    <roman>itthan-nāmaṃ bhikkhuṃ cīvarena acchādehī” ti. </roman>
+    <tai>ᩍᨲ᩠ᨳᨶᩣ᩠ᨶᨾᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᨧᩦᩅᩁᩮᨶ ᩋᨧ᩠ᨨᩣᨴᩮᩉᩦ”ᨲᩥ. </tai>
+    <my>ဣတ္ထန္နာမံ ဘိက္ခုံ စီဝရေန အစ္ဆာဒေဟီ”တိ. </my>
+    <roman>itthan-nāmaṃ bhikkhuṃ cīvarena acchādehī”ti. </roman>
     <zh>送衣给某某比库披着”。</zh>
     <tai>ᩈᩮᩣ ᨧᩮ ᨴᩪᨲᩮᩣ ᨲᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᩏᨷᩈᩘᨠᨾᩥᨲ᩠ᩅᩣ ᩑᩅᩴ ᩅᨴᩮᨿ᩠ᨿ</tai>
     <my>သော စေ ဒူတော တံ ဘိက္ခုံ ဥပသင်္ကမိတွာ ဧဝံ ဝဒေယျ</my>
     <roman>So ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya</roman>
     <zh>”假如该使者前往那位比库处后如此说：</zh>
-    <tai>“ ᩍᨴᩴ ᨡᩮᩣ, ᨽᨶᩮ᩠ᨲ, ᩋᩣᨿᩈᩜᨶ᩠ᨲᩴ ᩏᨴ᩠ᨴᩥᩔ</tai>
-    <my>“ ဣဒံ ခေါ, ဘန္တေ, အာယသ္မန္တံ ဥဒ္ဒိဿ</my>
-    <roman>“ idaṃ kho, bhante, āyasmantaṃ uddissa</roman>
+    <tai>“ᩍᨴᩴ ᨡᩮᩣ, ᨽᨶᩮ᩠ᨲ, ᩋᩣᨿᩈᩜᨶ᩠ᨲᩴ ᩏᨴ᩠ᨴᩥᩔ</tai>
+    <my>“ဣဒံ ခေါ, ဘန္တေ, အာယသ္မန္တံ ဥဒ္ဒိဿ</my>
+    <roman>“idaṃ kho, bhante, āyasmantaṃ uddissa</roman>
     <zh>“尊者，这是指定为具寿</zh>
     <tai>ᨧᩦᩅᩁᨧᩮᨲᩣᨷᨶ᩠ᨶᩴ ᩋᩣᨽᨲᩴ, </tai>
     <my>စီဝရစေတာပန္နံ အာဘတံ, </my>
     <roman>cīvara-cetāpannaṃ ābhataṃ, </roman>
     <zh>带来的衣资。</zh>
-    <tai>ᨷᨭᩥᨣ᩠ᨣᨱ᩠ᩉᩣᨲᩩ ᩋᩣᨿᩈᩜᩣ ᨧᩦᩅᩁᨧᩮᨲᩣᨷᨶ᩠ᨶᨶ᩠” ᨲᩥ. </tai>
-    <my>ပဋိဂ္ဂဏှာတု အာယသ္မာ စီဝရစေတာပန္နန္” တိ. </my>
-    <roman>paṭiggaṇhātu āyasmā cīvara-cetāpannan” ti. </roman>
+    <tai>ᨷᨭᩥᨣ᩠ᨣᨱ᩠ᩉᩣᨲᩩ ᩋᩣᨿᩈᩜᩣ ᨧᩦᩅᩁᨧᩮᨲᩣᨷᨶ᩠ᨶᨶ᩠”ᨲᩥ. </tai>
+    <my>ပဋိဂ္ဂဏှာတု အာယသ္မာ စီဝရစေတာပန္နန္”တိ. </my>
+    <roman>paṭiggaṇhātu āyasmā cīvara-cetāpannan”ti. </roman>
     <zh>请具寿接受衣资”。</zh>
     <tai>ᨲᩮᨶ ᨽᩥᨠ᩠ᨡᩩᨶᩣ ᩈᩮᩣ ᨴᩪᨲᩮᩣ ᩑᩅᨾᩔ ᩅᨧᨶᩦᨿᩮᩣ</tai>
     <my>တေန ဘိက္ခုနာ သော ဒူတော ဧဝမဿ ဝစနီယော</my>
     <roman>Tena bhikkhunā so dūto evam·assa vacanīyo</roman>
     <zh>该比库宜对那位使者如此说：</zh>
-    <tai>“ ᨶ ᨡᩮᩣ ᨾᨿᩴ, ᩋᩣᩅᩩᩈᩮᩣ, ᨧᩦᩅᩁᨧᩮᨲᩣᨷᨶ᩠ᨶᩴ ᨷᨭᩥᨣ᩠ᨣᨱ᩠ᩉᩣᨾ, </tai>
-    <my>“ န ခေါ မယံ, အာဝုသော, စီဝရစေတာပန္နံ ပဋိဂ္ဂဏှာမ, </my>
-    <roman>“ na kho mayaṃ, āvuso, cīvara-cetāpannaṃ paṭiggaṇhāma, </roman>
+    <tai>“ᨶ ᨡᩮᩣ ᨾᨿᩴ, ᩋᩣᩅᩩᩈᩮᩣ, ᨧᩦᩅᩁᨧᩮᨲᩣᨷᨶ᩠ᨶᩴ ᨷᨭᩥᨣ᩠ᨣᨱ᩠ᩉᩣᨾ, </tai>
+    <my>“န ခေါ မယံ, အာဝုသော, စီဝရစေတာပန္နံ ပဋိဂ္ဂဏှာမ, </my>
+    <roman>“na kho mayaṃ, āvuso, cīvara-cetāpannaṃ paṭiggaṇhāma, </roman>
     <zh>“贤友，我们不能接受衣资，</zh>
-    <tai>ᨧᩦᩅᩁᨬ᩠ᨧ ᨡᩮᩣ ᨾᨿᩴ ᨷᨭᩥᨣ᩠ᨣᨱ᩠ᩉᩣᨾ ᨠᩣᩃᩮᨶ ᨠᨷ᩠ᨷᩥᨿᨶ᩠” ᨲᩥ. </tai>
-    <my>စီဝရဉ္စ ခေါ မယံ ပဋိဂ္ဂဏှာမ ကာလေန ကပ္ပိယန္” တိ. </my>
-    <roman>cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiyan” ti. </roman>
+    <tai>ᨧᩦᩅᩁᨬ᩠ᨧ ᨡᩮᩣ ᨾᨿᩴ ᨷᨭᩥᨣ᩠ᨣᨱ᩠ᩉᩣᨾ ᨠᩣᩃᩮᨶ ᨠᨷ᩠ᨷᩥᨿᨶ᩠”ᨲᩥ. </tai>
+    <my>စီဝရဉ္စ ခေါ မယံ ပဋိဂ္ဂဏှာမ ကာလေန ကပ္ပိယန္”တိ. </my>
+    <roman>cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiyan”ti. </roman>
     <zh>我们在适时接受许可之衣”。</zh>
     <tai>ᩈᩮᩣ ᨧᩮ ᨴᩪᨲᩮᩣ ᨲᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᩑᩅᩴ ᩅᨴᩮᨿ᩠ᨿ</tai>
     <my>သော စေ ဒူတော တံ ဘိက္ခုံ ဧဝံ ဝဒေယျ</my>
     <roman>So ce dūto taṃ bhikkhuṃ evaṃ vadeyya</roman>
     <zh>假如该使者对那位比库如此说：</zh>
-    <tai>“ ᩋᨲ᩠ᨳᩥ ᨷᨶᩣᨿᩈᩜᨲᩮᩣ ᨠᩮᩣᨧᩥ ᩅᩮᨿ᩠ᨿᩣᩅᨧ᩠ᨧᨠᩁᩮᩣ” ᨲᩥ. </tai>
-    <my>“ အတ္ထိ ပနာယသ္မတော ကောစိ ဝေယျာဝစ္စကရော” တိ. </my>
-    <roman>“ atthi panāyasmato koci veyyāvacca-karo” ti. </roman>
+    <tai>“ᩋᨲ᩠ᨳᩥ ᨷᨶᩣᨿᩈᩜᨲᩮᩣ ᨠᩮᩣᨧᩥ ᩅᩮᨿ᩠ᨿᩣᩅᨧ᩠ᨧᨠᩁᩮᩣ”ᨲᩥ. </tai>
+    <my>“အတ္ထိ ပနာယသ္မတော ကောစိ ဝေယျာဝစ္စကရော”တိ. </my>
+    <roman>“atthi panāyasmato koci veyyāvacca-karo”ti. </roman>
     <zh>“具寿有执事人吗？</zh>
     <tai>ᨧᩦᩅᩁᨲ᩠ᨳᩥᨠᩮᨶ, ᨽᩥᨠ᩠ᨡᩅᩮ, ᨽᩥᨠ᩠ᨡᩩᨶᩣ ᩅᩮᨿ᩠ᨿᩣᩅᨧ᩠ᨧᨠᩁᩮᩣ</tai>
     <my>စီဝရတ္ထိကေန, ဘိက္ခဝေ, ဘိက္ခုနာ ဝေယျာဝစ္စကရော</my>
@@ -407,9 +406,9 @@
     <my>နိဒ္ဒိသိတဗ္ဗော အာရာမိကော ဝါ ဥပါသကော ဝါ</my>
     <roman>niddisitabbo ārāmiko vā upāsako vā</roman>
     <zh>指定为[某个]园民或近事男:</zh>
-    <tai>“ ᩑᩈᩮᩣ ᨡᩮᩣ, ᩋᩣᩅᩩᩈᩮᩣ, ᨽᩥᨠ᩠ᨡᩪᨶᩴ ᩅᩮᨿ᩠ᨿᩣᩅᨧ᩠ᨧᨠᩁᩮᩣ” ᨲᩥ. </tai>
-    <my>“ ဧသော ခေါ, အာဝုသော, ဘိက္ခူနံ ဝေယျာဝစ္စကရော” တိ. </my>
-    <roman>“ eso kho, āvuso, bhikkhūnaṃ veyyāvacca-karo” ti. </roman>
+    <tai>“ᩑᩈᩮᩣ ᨡᩮᩣ, ᩋᩣᩅᩩᩈᩮᩣ, ᨽᩥᨠ᩠ᨡᩪᨶᩴ ᩅᩮᨿ᩠ᨿᩣᩅᨧ᩠ᨧᨠᩁᩮᩣ”ᨲᩥ. </tai>
+    <my>“ဧသော ခေါ, အာဝုသော, ဘိက္ခူနံ ဝေယျာဝစ္စကရော”တိ. </my>
+    <roman>“eso kho, āvuso, bhikkhūnaṃ veyyāvacca-karo”ti. </roman>
     <zh>“贤友，这位就是比库们的执事人”。</zh>
     <tai>ᩈᩮᩣ ᨧᩮ ᨴᩪᨲᩮᩣ ᨲᩴ ᩅᩮᨿ᩠ᨿᩣᩅᨧ᩠ᨧᨠᩁᩴ ᩈᨬ᩠ᨬᩣᨷᩮᨲ᩠ᩅᩣ</tai>
     <my>သော စေ ဒူတော တံ ဝေယျာဝစ္စကရံ သညာပေတွာ</my>
@@ -419,17 +418,17 @@
     <my>တံ ဘိက္ခုံ ဥပသင်္ကမိတွာ ဧဝံ ဝဒေယျ</my>
     <roman>taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya</roman>
     <zh>前往那位比库处如此说：</zh>
-    <tai>“ ᨿᩴ ᨡᩮᩣ, ᨽᨶᩮ᩠ᨲ, ᩋᩣᨿᩈᩜᩣ ᩅᩮᨿ᩠ᨿᩣᩅᨧ᩠ᨧᨠᩁᩴ ᨶᩥᨴ᩠ᨴᩥᩈᩥ, </tai>
-    <my>“ ယံ ခေါ, ဘန္တေ, အာယသ္မာ ဝေယျာဝစ္စကရံ နိဒ္ဒိသိ, </my>
-    <roman>“ yaṃ kho, bhante, āyasmā veyyāvacca-karaṃ niddisi, </roman>
+    <tai>“ᨿᩴ ᨡᩮᩣ, ᨽᨶᩮ᩠ᨲ, ᩋᩣᨿᩈᩜᩣ ᩅᩮᨿ᩠ᨿᩣᩅᨧ᩠ᨧᨠᩁᩴ ᨶᩥᨴ᩠ᨴᩥᩈᩥ, </tai>
+    <my>“ယံ ခေါ, ဘန္တေ, အာယသ္မာ ဝေယျာဝစ္စကရံ နိဒ္ဒိသိ, </my>
+    <roman>“yaṃ kho, bhante, āyasmā veyyāvacca-karaṃ niddisi, </roman>
     <zh>“尊者，具寿所指出的执事人我已经交代他了，</zh>
     <tai>ᩈᨬ᩠ᨬᨲᩮ᩠ᨲᩣ ᩈᩮᩣ ᨾᨿᩣ, ᩏᨷᩈᩘᨠᨾᨲᩣᨿᩈᩜᩣ ᨠᩣᩃᩮᨶ, </tai>
     <my>သညတ္တော သော မယာ, ဥပသင်္ကမတာယသ္မာ ကာလေန, </my>
     <roman>saññatto so mayā, upasaṅkamatāyasmā kālena, </roman>
     <zh>请具寿在适时前往，</zh>
-    <tai>ᨧᩦᩅᩁᩮᨶ ᨲᩴ ᩋᨧ᩠ᨨᩣᨴᩮᩔᨲᩦ” ᨲᩥ. </tai>
-    <my>စီဝရေန တံ အစ္ဆာဒေဿတီ” တိ. </my>
-    <roman>cīvarena taṃ acchādessatī” ti. </roman>
+    <tai>ᨧᩦᩅᩁᩮᨶ ᨲᩴ ᩋᨧ᩠ᨨᩣᨴᩮᩔᨲᩦ”ᨲᩥ. </tai>
+    <my>စီဝရေန တံ အစ္ဆာဒေဿတီ”တိ. </my>
+    <roman>cīvarena taṃ acchādessatī”ti. </roman>
     <zh>他将送衣给您披着”。</zh>
     <tai>ᨧᩦᩅᩁᨲ᩠ᨳᩥᨠᩮᨶ, ᨽᩥᨠ᩠ᨡᩅᩮ, ᨽᩥᨠ᩠ᨡᩩᨶᩣ ᩅᩮᨿ᩠ᨿᩣᩅᨧ᩠ᨧᨠᩁᩮᩣ ᩏᨷᩈᩘᨠᨾᩥᨲ᩠ᩅᩣ</tai>
     <my>စီဝရတ္ထိကေန, ဘိက္ခဝေ, ဘိက္ခုနာ ဝေယျာဝစ္စကရော ဥပသင်္ကမိတွာ</my>
@@ -439,9 +438,9 @@
     <my>ဒွတ္တိက္ခတ္တုံ စောဒေတဗ္ဗော သာရေတဗ္ဗော</my>
     <roman>dvatti-kkhattuṃ codetabbo sāretabbo</roman>
     <zh>可以催促、提醒两、三次：</zh>
-    <tai>“ ᩋᨲᩮ᩠ᨳᩣ ᨾᩮ, ᩋᩣᩅᩩᩈᩮᩣ, ᨧᩦᩅᩁᩮᨶᩣ” ᨲᩥ, </tai>
-    <my>“ အတ္ထော မေ, အာဝုသော, စီဝရေနာ” တိ, </my>
-    <roman>“ attho me, āvuso, cīvarenā” ti, </roman>
+    <tai>“ᩋᨲᩮ᩠ᨳᩣ ᨾᩮ, ᩋᩣᩅᩩᩈᩮᩣ, ᨧᩦᩅᩁᩮᨶᩣ”ᨲᩥ, </tai>
+    <my>“အတ္ထော မေ, အာဝုသော, စီဝရေနာ”တိ, </my>
+    <roman>“attho me, āvuso, cīvarenā”ti, </roman>
     <zh>“贤友，我需要衣。”</zh>
     <tai>ᨴ᩠ᩅᨲ᩠ᨲᩥᨠ᩠ᨡᨲ᩠ᨲᩩᩴ ᨧᩮᩣᨴᨿᨾᩣᨶᩮᩣ ᩈᩣᩁᨿᨾᩣᨶᩮᩣ</tai>
     <my>ဒွတ္တိက္ခတ္တုံ စောဒယမာနော သာရယမာနော</my>
@@ -511,9 +510,9 @@
     <my>ဒူတော ဝါ ပါဟေတဗ္ဗော</my>
     <roman>dūto vā pāhetabbo</roman>
     <zh>或派遣使者</zh>
-    <tai>“ ᨿᩴ ᨡᩮᩣ ᨲᩩᨾᩮ᩠ᩉ ᩋᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ</tai>
-    <my>“ ယံ ခေါ တုမှေ အာယသ္မန္တော</my>
-    <roman>“ yaṃ kho tumhe āyasmanto</roman>
+    <tai>“ᨿᩴ ᨡᩮᩣ ᨲᩩᨾᩮ᩠ᩉ ᩋᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ</tai>
+    <my>“ယံ ခေါ တုမှေ အာယသ္မန္တော</my>
+    <roman>“yaṃ kho tumhe āyasmanto</roman>
     <zh>“具寿们，你们</zh>
     <tai>ᨽᩥᨠ᩠ᨡᩩᩴ ᩏᨴ᩠ᨴᩥᩔ ᨧᩦᩅᩁ-ᨧᩮᨲᩣᨷᨶ᩠ᨶᩴ ᨷᩉᩥᨱᩥᨲ᩠ᨳ, </tai>
     <my>ဘိက္ခုံ ဥဒ္ဒိဿ စီဝရ-စေတာပန္နံ ပဟိဏိတ္ထ, </my>
@@ -531,9 +530,9 @@
     <my>ယုဉ္ဇန္တာယသ္မန္တော သကံ, </my>
     <roman>yuñjantāyasmanto sakaṃ, </roman>
     <zh>具寿们，自己努力，</zh>
-    <tai>ᨾᩣ ᩅᩮᩤ ᩈᨠᩴ ᩅᩥᨶᩔᩣ” ᨲᩥ, </tai>
-    <my>မာ ဝေါ သကံ ဝိနဿာ” တိ, </my>
-    <roman>mā vo sakaṃ vinassā” ti, </roman>
+    <tai>ᨾᩣ ᩅᩮᩤ ᩈᨠᩴ ᩅᩥᨶᩔᩣ”ᨲᩥ, </tai>
+    <my>မာ ဝေါ သကံ ဝိနဿာ”တိ, </my>
+    <roman>mā vo sakaṃ vinassā”ti, </roman>
     <zh>不要失去你们自己的！”</zh>
     <tai>ᩋᨿᩴ ᨲᨲ᩠ᨳ ᩈᩣᨾᩦᨧᩥ.</tai>
     <my>အယံ တတ္ထ သာမီစိ.</my>
@@ -549,9 +548,9 @@
 
 ## 蚕丝品 kosiyavagga
 
-<audio id="audio" controls style="width: 100%;">
+<!--audio id="audio" controls style="width: 100%;">
 <sourceList src="https://djt-res.fzcl.org.cn/jly/audio/%E5%B7%B4%E5%B8%9D%E6%91%A9%E5%8D%A1/6.2%20kosiyavagga.mp3" >
-</audio>
+</audio-->
 
 11. 
     <tai>ᨿᩮᩣ ᨷᨶ ᨽᩥᨠ᩠ᨡᩩ ᨠᩮᩣᩈᩥᨿ-ᨾᩥᩔᨠᩴ ᩈᨶ᩠ᨳᨲᩴ ᨠᩣᩁᩣᨷᩮᨿ᩠ᨿ, </tai>
@@ -753,9 +752,9 @@
 
 ## 缽品 pattavagga
 
-<audio id="audio" controls style="width: 100%;">
+<!--audio id="audio" controls style="width: 100%;">
 <sourceList src="https://djt-res.fzcl.org.cn/jly/audio/%E5%B7%B4%E5%B8%9D%E6%91%A9%E5%8D%A1/6.3%20pattavagga.mp3" >
-</audio>
+</audio-->
 
 21. 
     <tai>ᨴᩈᩣᩉᨷᩁᨾᩴ ᩋᨲᩥᩁᩮᨠᨷᨲᩮ᩠ᨲᩣ ᨵᩤᩁᩮᨲᨻᩮ᩠ᨻᩣ, </tai>
@@ -791,13 +790,13 @@
     <my>သော တဿ ဘိက္ခုနော ပဒါတဗ္ဗော</my>
     <roman>so tassa bhikkhuno padātabbo</roman>
     <zh>应给与那位比库：</zh>
-    <tai>“ ᩋᨿᩴ ᨲᩮ ᨽᩥᨠ᩠ᨡᩩ ᨷᨲᩮ᩠ᨲᩣ</tai>
-    <my>“ အယံ တေ ဘိက္ခု ပတ္တော</my>
-    <roman>“ ayaṃ te bhikkhu patto</roman>
+    <tai>“ᩋᨿᩴ ᨲᩮ ᨽᩥᨠ᩠ᨡᩩ ᨷᨲᩮ᩠ᨲᩣ</tai>
+    <my>“အယံ တေ ဘိက္ခု ပတ္တော</my>
+    <roman>“ayaṃ te bhikkhu patto</roman>
     <zh>“比库，这是你的钵，</zh>
-    <tai>ᨿᩣᩅ ᨽᩮᨴᨶᩣᨿ ᨵᩤᩁᩮᨲᨻᩮ᩠ᨻᩣ” ᨲᩥ, </tai>
-    <my>ယာဝ ဘေဒနာယ ဓါရေတဗ္ဗော” တိ, </my>
-    <roman>yāva bhedanāya dhāretabbo” ti, </roman>
+    <tai>ᨿᩣᩅ ᨽᩮᨴᨶᩣᨿ ᨵᩤᩁᩮᨲᨻᩮ᩠ᨻᩣ”ᨲᩥ, </tai>
+    <my>ယာဝ ဘေဒနာယ ဓါရေတဗ္ဗော”တိ, </my>
+    <roman>yāva bhedanāya dhāretabbo”ti, </roman>
     <zh>应持用至破为止。”</zh>
     <tai>ᩋᨿᩴ ᨲᨲ᩠ᨳ ᩈᩣᨾᩦᨧᩥ.</tai>
     <my>အယံ တတ္ထ သာမီစိ.</my>
@@ -829,29 +828,29 @@
     <roman>taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.</roman>
     <zh>超过此者，舍堕。</zh>
 24. 
-    <tai>“ ᨾᩣᩈᩮᩣ ᩈᩮᩈᩮᩣ ᨣᩥᨾ᩠ᩉᩣᨶᨶ᩠” ᨲᩥ</tai>
-    <my>“ မာသော သေသော ဂိမှာနန္” တိ</my>
-    <roman>“ Māso seso gimhānan” ti</roman>
+    <tai>“ᨾᩣᩈᩮᩣ ᩈᩮᩈᩮᩣ ᨣᩥᨾ᩠ᩉᩣᨶᨶ᩠”ᨲᩥ</tai>
+    <my>“မာသော သေသော ဂိမှာနန္”တိ</my>
+    <roman>“Māso seso gimhānan”ti</roman>
     <zh>“热季的最后一个月”</zh>
     <tai>ᨽᩥᨠ᩠ᨡᩩᨶᩣ ᩅᩔᩥᨠ-ᩈᩣᨭᩥᨠ-ᨧᩦᩅᩁᩴ ᨷᩁᩥᨿᩮᩈᩥᨲᨻ᩠ᨻᩴ,</tai>
     <my>ဘိက္ခုနာ ဝဿိက-သာဋိက-စီဝရံ ပရိယေသိတဗ္ဗံ,</my>
     <roman>bhikkhunā vassika-sāṭika-cīvaraṃ pariyesitabbaṃ,</roman>
     <zh>比库可以寻求雨浴衣；</zh>
-    <tai>“ ᩋᨴ᩠ᨵᨾᩣᩈᩮᩣ ᩈᩮᩈᩮᩣ ᨣᩥᨾ᩠ᩉᩣᨶᨶ᩠” ᨲᩥ ᨠᨲ᩠ᩅᩣ ᨶᩥᩅᩤᩈᩮᨲᨻ᩠ᨻᩴ. </tai>
-    <my>“ အဒ္ဓမာသော သေသော ဂိမှာနန္” တိ ကတွာ နိဝါသေတဗ္ဗံ. </my>
-    <roman>“ addhamāso seso gimhānan” ti katvā nivāsetabbaṃ. </roman>
+    <tai>“ᩋᨴ᩠ᨵᨾᩣᩈᩮᩣ ᩈᩮᩈᩮᩣ ᨣᩥᨾ᩠ᩉᩣᨶᨶ᩠”ᨲᩥ ᨠᨲ᩠ᩅᩣ ᨶᩥᩅᩤᩈᩮᨲᨻ᩠ᨻᩴ. </tai>
+    <my>“အဒ္ဓမာသော သေသော ဂိမှာနန္”တိ ကတွာ နိဝါသေတဗ္ဗံ. </my>
+    <roman>“addhamāso seso gimhānan”ti katvā nivāsetabbaṃ. </roman>
     <zh>“热季的最后半个月”做好后可以着用。</zh>
-    <tai>ᩒᩁᩮᨶ ᨧᩮ “ ᨾᩣᩈᩮᩣ ᩈᩮᩈᩮᩣ ᨣᩥᨾ᩠ᩉᩣᨶᨶ᩠” ᨲᩥ</tai>
-    <my>ဩရေန စေ “ မာသော သေသော ဂိမှာနန္” တိ</my>
-    <roman>Orena ce “ māso seso gimhānan” ti</roman>
+    <tai>ᩒᩁᩮᨶ ᨧᩮ “ᨾᩣᩈᩮᩣ ᩈᩮᩈᩮᩣ ᨣᩥᨾ᩠ᩉᩣᨶᨶ᩠”ᨲᩥ</tai>
+    <my>ဩရေန စေ “မာသော သေသော ဂိမှာနန္”တိ</my>
+    <roman>Orena ce “māso seso gimhānan”ti</roman>
     <zh>假如还未到“热季的最后一个月”</zh>
     <tai>ᩅᩔᩥᨠ-ᩈᩣᨭᩥᨠ-ᨧᩦᩅᩁᩴ ᨷᩁᩥᨿᩮᩈᩮᨿ᩠ᨿ, </tai>
     <my>ဝဿိက-သာဋိက-စီဝရံ ပရိယေသေယျ, </my>
     <roman>vassika-sāṭika-cīvaraṃ pariyeseyya, </roman>
     <zh>即寻求雨浴衣，</zh>
-    <tai>ᩒᩁᩮᨶ “ ᨴ᩠ᨵᨾᩣᩈᩮᩣ ᩈᩮᩈᩮᩣ ᨣᩥᨾ᩠ᩉᩣᨶᨶ᩠” ᨲᩥ</tai>
-    <my>ဩရေန “ ဒ္ဓမာသော သေသော ဂိမှာနန္” တိ</my>
-    <roman>orena “ ddhamāso seso gimhānan” ti</roman>
+    <tai>ᩒᩁᩮᨶ “ᨴ᩠ᨵᨾᩣᩈᩮᩣ ᩈᩮᩈᩮᩣ ᨣᩥᨾ᩠ᩉᩣᨶᨶ᩠”ᨲᩥ</tai>
+    <my>ဩရေန “ဒ္ဓမာသော သေသော ဂိမှာနန္”တိ</my>
+    <roman>orena “ddhamāso seso gimhānan”ti</roman>
     <zh>还未到“热季的最后半个月”</zh>
     <tai>ᨠᨲ᩠ᩅᩣ ᨶᩥᩅᩤᩈᩮᨿ᩠ᨿ, </tai>
     <my>ကတွာ နိဝါသေယျ, </my>
@@ -920,9 +919,9 @@
     <my>စီဝရေ ဝိကပ္ပံ အာပဇ္ဇေယျ</my>
     <roman>cīvare vikappaṃ āpajjeyya</roman>
     <zh>对衣作提议：</zh>
-    <tai>“ ᩍᨴᩴ ᨡᩮᩣ, ᩋᩣᩅᩩᩈᩮᩣ, ᨧᩦᩅᩁᩴ ᨾᩴ ᩏᨴ᩠ᨴᩥᩔ ᩅᩥᨿ᩠ᨿᨲᩥ, </tai>
-    <my>“ ဣဒံ ခေါ, အာဝုသော, စီဝရံ မံ ဥဒ္ဒိဿ ဝိယျတိ, </my>
-    <roman>“ idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati, </roman>
+    <tai>“ᩍᨴᩴ ᨡᩮᩣ, ᩋᩣᩅᩩᩈᩮᩣ, ᨧᩦᩅᩁᩴ ᨾᩴ ᩏᨴ᩠ᨴᩥᩔ ᩅᩥᨿ᩠ᨿᨲᩥ, </tai>
+    <my>“ဣဒံ ခေါ, အာဝုသော, စီဝရံ မံ ဥဒ္ဒိဿ ဝိယျတိ, </my>
+    <roman>“idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati, </roman>
     <zh>“贤友们，这件衣是指定为我而织的，</zh>
     <tai>ᩋᩣᨿᨲᨬ᩠ᨧ ᨠᩁᩮᩣᨳ, </tai>
     <my>အာယတဉ္စ ကရောထ, </my>
@@ -944,9 +943,9 @@
     <my>အပ္ပေဝ နာမ မယမ္ပိ</my>
     <roman>appeva nāma mayampi</roman>
     <zh>或许我们</zh>
-    <tai>ᩋᩣᨿᩈᩜᨶᩣ᩠ᨲᨶᩴ ᨠᩥᨬ᩠ᨧᩥᨾᨲ᩠ᨲᩴ ᩋᨶᩩᨷᨴᨩᩮ᩠ᨩᨿ᩠ᨿᩣᨾᩣ” ᨲᩥ. </tai>
-    <my>အာယသ္မန္တာနံ ကိဉ္စိမတ္တံ အနုပဒဇ္ဇေယျာမာ” တိ. </my>
-    <roman>āyasmantānaṃ kiñci-mattaṃ anupadajjeyyāmā” ti. </roman>
+    <tai>ᩋᩣᨿᩈᩜᨶᩣ᩠ᨲᨶᩴ ᨠᩥᨬ᩠ᨧᩥᨾᨲ᩠ᨲᩴ ᩋᨶᩩᨷᨴᨩᩮ᩠ᨩᨿ᩠ᨿᩣᨾᩣ”ᨲᩥ. </tai>
+    <my>အာယသ္မန္တာနံ ကိဉ္စိမတ္တံ အနုပဒဇ္ဇေယျာမာ”တိ. </my>
+    <roman>āyasmantānaṃ kiñci-mattaṃ anupadajjeyyāmā”ti. </roman>
     <zh>会送些东西给贤友们的。”</zh>
     <tai>ᩑᩅᨬ᩠ᨧ ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᩅᨲ᩠ᩅᩣ</tai>
     <my>ဧဝဉ္စ သော ဘိက္ခု ဝတွာ</my>

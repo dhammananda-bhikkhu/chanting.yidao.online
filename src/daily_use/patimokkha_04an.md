@@ -1,6 +1,6 @@
 <div id="lyriccontainer" class="def-lyric" style="background-image:url('https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E8%AF%B5%E6%88%92.png');background-size:cover;--full-font-size: 4vmin;--default-font-size: 1.6rem;">
 	<div id="line-tools">
-		<input type="checkbox" id='lyricSleep'>禁止熄屏</input>
+		<input type="checkbox" id='lyricSleep'>禁止熄屏
 		<button id='lyricFullscreen'>全屏播放</button>
 		<button id='lyricBigger'>加大字体</button>
 		<button id='lyricSmaller'>缩小字体</button>
@@ -32,12 +32,11 @@
     </span>
     </div>
 	<audio id="audio" controls style="width: 100%;">
-	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/5.%20Aniyatuddeso.mp3" >
+	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/5.%20Aniyatuddeso.mp3" ></sourceList>
 	</audio>
 </div>
 <div class="share-component" data-disabled="google,twitter,facebook" data-description="一键分享到微博，QQ空间，腾讯微博，人人，豆瓣">
     </div>
-<div>
 
 
 # 不定诵Aniyatuddeso

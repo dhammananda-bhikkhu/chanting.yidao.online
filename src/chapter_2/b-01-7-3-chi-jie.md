@@ -5,7 +5,7 @@
 
 |念诵者|念诵内容|
 |:-:|:-|
-|求戒者|<roman>Ahaṃ, bhante, tisaraṇena **saha dasa-pabbajjā-sīlaṃ** dhammaṃ yācāmi,</roman><zh>尊者，我乞求三皈依和出家十戒法，</zh><roman>anuggahaṃ katvā sīlaṃ detha me, bhante.</roman><zh>请尊者在摄受后授戒给我！</zh><br><br><roman>Dutiyampi, ahaṃ, bhante, tisaraṇena **saha dasa-pabbajjā-sīlaṃ** dhammaṃ yācāmi,</roman><zh>第二次，尊者，我乞求三皈依和出家十戒法，</zh><roman>anuggahaṃ katvā sīlaṃ detha me, bhante.</roman><zh>请尊者在摄受后授戒给我！</zh><br><br><roman>Tatiyampi, ahaṃ, bhante, tisaraṇena **saha dasa-pabbajjā-sīlaṃ** dhammaṃ yācāmi,</roman><zh>第三次，尊者，我乞求三皈依和出家十戒法，</zh><roman>anuggahaṃ katvā sīlaṃ detha me, bhante.<br>请尊者在摄受后授戒给我！|
+|求戒者|<roman>Ahaṃ, bhante, tisaraṇena **saha dasa-pabbajjā-sīlaṃ** dhammaṃ yācāmi,</roman><zh>尊者，我乞求三皈依和出家十戒法，</zh><roman>anuggahaṃ katvā sīlaṃ detha me, bhante.</roman><zh>请尊者在摄受后授戒给我！</zh><br><br><roman>Dutiyampi, ahaṃ, bhante, tisaraṇena **saha dasa-pabbajjā-sīlaṃ** dhammaṃ yācāmi,</roman><zh>第二次，尊者，我乞求三皈依和出家十戒法，</zh><roman>anuggahaṃ katvā sīlaṃ detha me, bhante.</roman><zh>请尊者在摄受后授戒给我！</zh><br><br><roman>Tatiyampi, ahaṃ, bhante, tisaraṇena **saha dasa-pabbajjā-sīlaṃ** dhammaṃ yācāmi,</roman><zh>第三次，尊者，我乞求三皈依和出家十戒法，</zh><roman>anuggahaṃ katvā sīlaṃ detha me, bhante.</roman><zh>请尊者在摄受后授戒给我！</zh>|
 |比库|<roman>Yaṃ ahaṃ vadāmi taṃ vadetha(vadehi).</roman><zh>我念什么，你们（你）就跟着念什么。</zh>|
 |求戒者|<roman>Āma, bhante.</roman><zh>是的，尊者！</zh>|
 

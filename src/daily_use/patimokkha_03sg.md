@@ -1,6 +1,6 @@
 <div id="lyriccontainer" class="def-lyric" style="background-image:url('https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E8%AF%B5%E6%88%92.png');background-size:cover;--full-font-size: 4vmin;--default-font-size: 1.6rem;">
 	<div id="line-tools">
-		<input type="checkbox" id='lyricSleep'>禁止熄屏</input>
+		<input type="checkbox" id='lyricSleep'>禁止熄屏
 		<button id='lyricFullscreen'>全屏播放</button>
 		<button id='lyricBigger'>加大字体</button>
 		<button id='lyricSmaller'>缩小字体</button>
@@ -32,12 +32,11 @@
     </span>
     </div>
 	<audio id="audio" controls style="width: 100%;">
-	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/4.%20Sanghadisesuddeso.mp3" >
+	  <sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/4.%20Sanghadisesuddeso.mp3" ></sourceList>
 	</audio>
 </div>
 <div class="share-component" data-disabled="google,twitter,facebook" data-description="一键分享到微博，QQ空间，腾讯微博，人人，豆瓣">
     </div>
-<div>
 
 # 僧始终Saṅghādisesuddeso
 
@@ -122,17 +121,17 @@
     <my>အတ္တကာမပါရိစရိယာယ ဝဏ္ဏံ ဘာသေယျ</my>
     <roman>atta-kāma-pāricariyāya vaṇṇaṃ bhāseyya</roman>
     <zh>说以[淫]欲侍奉自己的好处:</zh>
-    <tai>‘‘ ᩑᨲᨴᨣ᩠ᨣᩴ ᨽᨣᩥᨶᩥ ᨷᩤᩁᩥᨧᩁᩥᨿᩣᨶᩴ</tai>
-    <my>‘‘ ဧတဒဂ္ဂံ ဘဂိနိ ပါရိစရိယာနံ</my>
-    <roman>‘‘ etadaggaṃ bhagini pāricariyānaṃ</roman>
+    <tai>“ᩑᨲᨴᨣ᩠ᨣᩴ ᨽᨣᩥᨶᩥ ᨷᩤᩁᩥᨧᩁᩥᨿᩣᨶᩴ</tai>
+    <my>“ဧတဒဂ္ဂံ ဘဂိနိ ပါရိစရိယာနံ</my>
+    <roman>“etadaggaṃ bhagini pāricariyānaṃ</roman>
     <zh>“姐妹，此乃诸侍奉中的最上：</zh>
     <tai>ᨿᩣ ᨾᩣᨴᩥᩈᩴ ᩈᩦᩃᩅᨶ᩠ᨲᩴ ᨠᩃ᩠ᨿᩋᩣᨱᨵᨾᩜᩴ ᨻᩕᩉᩜᨧᩣᩁᩥᩴ</tai>
     <my>ယာ မာဒိသံ သီလဝန္တံ ကလျာဏဓမ္မံ ဗြဟ္မစာရိံ</my>
     <roman>yā mādisaṃ sīlavantaṃ kalyāṇa-dhammaṃ brahma-cāriṃ</roman>
     <zh>像我这样的持戒者、善法者、梵行者，</zh>
-    <tai>ᩑᨲᩮᨶ ᨵᨾᩮᩜᨶ ᨷᩁᩥᨧᩁᩮᨿ᩠ᨿᩣ’’ ᨲᩥ</tai>
-    <my>ဧတေန ဓမ္မေန ပရိစရေယျာ’’ တိ</my>
-    <roman>etena dhammena paricareyyā’’ ti</roman>
+    <tai>ᩑᨲᩮᨶ ᨵᨾᩮᩜᨶ ᨷᩁᩥᨧᩁᩮᨿ᩠ᨿᩣ”ᨲᩥ</tai>
+    <my>ဧတေန ဓမ္မေန ပရိစရေယျာ”တိ</my>
+    <roman>etena dhammena paricareyyā”ti</roman>
     <zh>应该以此法来侍奉。”</zh>
     <tai>ᨾᩮᨳᩩᨶᩩᨷᩈᩴᩉᩥᨲᩮᨶ, ᩈᩘᨥᩣᨴᩥᩈᩮᩈᩮᩣ.</tai>
     <my>မေထုနုပသံဟိတေန, သင်္ဃာဒိသေသော.</my>
@@ -250,9 +249,9 @@
     <my>အမူလကေန ပါရာဇိကေန ဓမ္မေန အနုဒ္ဓံသေယျ</my>
     <roman>amūlakena pārājikena dhammena anuddhaṃseyya</roman>
     <zh>以无根据的巴拉基咖法诽谤比库:</zh>
-    <tai>‘‘ ᩋᨷᩮ᩠ᨷᩅ ᨶᩣᨾ ᨶᩴ ᩍᨾᨾ᩠ᩉᩣ ᨻᩕᩉᩜᨧᩁᩥᨿᩣ ᨧᩣᩅᩮᨿ᩠ᨿᨶ᩠’’ ᨲᩥ ,</tai>
-    <my>‘‘ အပ္ပေဝ နာမ နံ ဣမမှာ ဗြဟ္မစရိယာ စာဝေယျန္’’ တိ ,</my>
-    <roman>‘‘ appeva nāma naṃ imamhā brahma-cariyā cāveyyan’’ ti ,</roman>
+    <tai>“ᩋᨷᩮ᩠ᨷᩅ ᨶᩣᨾ ᨶᩴ ᩍᨾᨾ᩠ᩉᩣ ᨻᩕᩉᩜᨧᩁᩥᨿᩣ ᨧᩣᩅᩮᨿ᩠ᨿᨶ᩠”ᨲᩥ ,</tai>
+    <my>“အပ္ပေဝ နာမ နံ ဣမမှာ ဗြဟ္မစရိယာ စာဝေယျန္”တိ ,</my>
+    <roman>“appeva nāma naṃ imamhā brahma-cariyā cāveyyan”ti ,</roman>
     <zh>“或许因此能使他从梵行中退堕。”</zh>
     <tai>ᨲᨲᩮᩣ ᩋᨷᩁᩮᨶ ᩈᨾᨿᩮᨶ</tai>
     <my>တတော အပရေန သမယေန</my>
@@ -287,9 +286,9 @@
     <my>ပါရာဇိကေန ဓမ္မေန အနုဒ္ဓံသေယျ</my>
     <roman>pārājikena dhammena anuddhaṃseyya</roman>
     <zh>以巴拉基咖法诽谤比库：</zh>
-    <tai>‘‘ ᩋᨷᩮ᩠ᨷᩅ ᨶᩣᨾ ᨶᩴ ᩍᨾᨾ᩠ᩉᩣ ᨻᩕᩉᩜᨧᩁᩥᨿᩣ ᨧᩣᩅᩮᨿ᩠ᨿᨶ᩠’’ ᨲᩥ,</tai>
-    <my>‘‘ အပ္ပေဝ နာမ နံ ဣမမှာ ဗြဟ္မစရိယာ စာဝေယျန္’’ တိ,</my>
-    <roman>‘‘ appeva nāma naṃ imamhā brahma-cariyā cāveyyan’’ ti,</roman>
+    <tai>“ᩋᨷᩮ᩠ᨷᩅ ᨶᩣᨾ ᨶᩴ ᩍᨾᨾ᩠ᩉᩣ ᨻᩕᩉᩜᨧᩁᩥᨿᩣ ᨧᩣᩅᩮᨿ᩠ᨿᨶ᩠”ᨲᩥ,</tai>
+    <my>“အပ္ပေဝ နာမ နံ ဣမမှာ ဗြဟ္မစရိယာ စာဝေယျန္”တိ,</my>
+    <roman>“appeva nāma naṃ imamhā brahma-cariyā cāveyyan”ti,</roman>
     <zh>“或许因此能使他从梵行中退堕。”</zh>
     <tai>ᨲᨲᩮᩣ ᩋᨷᩁᩮᨶ ᩈᨾᨿᩮᨶ</tai>
     <my>တတော အပရေန သမယေန</my>
@@ -332,9 +331,9 @@
     <my>သော ဘိက္ခု ဘိက္ခူဟိ ဧဝမဿ ဝစနီယော</my>
     <roman>so bhikkhu bhikkhūhi evam·assa vacanīyo</roman>
     <zh>比库们应如此劝告那个比库：</zh>
-    <tai>‘‘ ᨾᩣᨿᩈᩜᩣ ᩈᨾᨣ᩠ᨣᩔ ᩈᩘᨥᩔ</tai>
-    <my>‘‘ မာယသ္မာ သမဂ္ဂဿ သင်္ဃဿ</my>
-    <roman>‘‘ māyasmā samaggassa saṅghassa</roman>
+    <tai>“ᨾᩣᨿᩈᩜᩣ ᩈᨾᨣ᩠ᨣᩔ ᩈᩘᨥᩔ</tai>
+    <my>“မာယသ္မာ သမဂ္ဂဿ သင်္ဃဿ</my>
+    <roman>“māyasmā samaggassa saṅghassa</roman>
     <zh>“请具寿不要对和合的僧团</zh>
     <tai>ᨽᩮᨴᩤᨿ ᨷᩁᨠ᩠ᨠᨾᩥ,</tai>
     <my>ဘေဒါယ ပရက္ကမိ,</my>
@@ -356,9 +355,9 @@
     <my>သမ္မောဒမာနော အဝိဝဒမာနော</my>
     <roman>sammodamāno avivadamāno</roman>
     <zh>欢喜、无诤、</zh>
-    <tai>ᩑᨠᩩᨴᩮ᩠ᨴᩈᩮᩣ ᨹᩣᩈᩩ ᩅᩥᩉᩁᨲᩦ’’ ᨲᩥ,</tai>
-    <my>ဧကုဒ္ဒေသော ဖာသု ဝိဟရတီ’’ တိ,</my>
-    <roman>ekuddeso phāsu viharatī’’ ti,</roman>
+    <tai>ᩑᨠᩩᨴᩮ᩠ᨴᩈᩮᩣ ᨹᩣᩈᩩ ᩅᩥᩉᩁᨲᩦ”ᨲᩥ,</tai>
+    <my>ဧကုဒ္ဒေသော ဖာသု ဝိဟရတီ”တိ,</my>
+    <roman>ekuddeso phāsu viharatī”ti,</roman>
     <zh>同一诵[戒]、安乐而住的！”</zh>
     <tai>ᩑᩅᨬ᩠ᨧ ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨽᩥᨠ᩠ᨡᩪᩉᩥ</tai>
     <my>ဧဝဉ္စ သော ဘိက္ခု ဘိက္ခူဟိ</my>
@@ -413,9 +412,9 @@
     <my>တေ ဧဝံ ဝဒေယျုံ</my>
     <roman>te evaṃ vadeyyuṃ</roman>
     <zh>若他们如此说:</zh>
-    <tai>‘‘ ᨾᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ ᩑᨲᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᨠᩥᨬ᩠ᨧᩥ ᩋᩅᨧᩩᨲ᩠ᨳ,</tai>
-    <my>‘‘ မာယသ္မန္တော ဧတံ ဘိက္ခုံ ကိဉ္စိ အဝစုတ္ထ,</my>
-    <roman>‘‘ māyasmanto etaṃ bhikkhuṃ kiñci avacuttha,</roman>
+    <tai>“ᨾᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ ᩑᨲᩴ ᨽᩥᨠ᩠ᨡᩩᩴ ᨠᩥᨬ᩠ᨧᩥ ᩋᩅᨧᩩᨲ᩠ᨳ,</tai>
+    <my>“မာယသ္မန္တော ဧတံ ဘိက္ခုံ ကိဉ္စိ အဝစုတ္ထ,</my>
+    <roman>“māyasmanto etaṃ bhikkhuṃ kiñci avacuttha,</roman>
     <zh>“具寿们，请不要说那位比库的任何事情。</zh>
     <tai>ᨵᨾᩜᩅᩤᨴᩦ ᨧᩮᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ,</tai>
     <my>ဓမ္မဝါဒီ စေသော ဘိက္ခု,</my>
@@ -437,17 +436,17 @@
     <my>ဇာနာတိ, နော ဘာသတိ,</my>
     <roman>jānāti, no bhāsati,</roman>
     <zh>他知我们而说，</zh>
-    <tai>ᩋᨾ᩠ᩉᩣᨠᨾᩮ᩠ᨷᨲᩴ ᨡᨾᨲᩦ’’ ᨲᩥ,</tai>
-    <my>အမှာကမ္ပေတံ ခမတီ’’ တိ,</my>
-    <roman>amhākampetaṃ khamatī’’ ti,</roman>
+    <tai>ᩋᨾ᩠ᩉᩣᨠᨾᩮ᩠ᨷᨲᩴ ᨡᨾᨲᩦ”ᨲᩥ,</tai>
+    <my>အမှာကမ္ပေတံ ခမတီ”တိ,</my>
+    <roman>amhākampetaṃ khamatī”ti,</roman>
     <zh>那是我们所忍可的。”</zh>
     <tai>ᨲᩮ ᨽᩥᨠ᩠ᨡᩪ ᨽᩥᨠ᩠ᨡᩪᩉᩥ ᩑᩅᨾᩔᩩ ᩅᨧᨶᩦᨿᩣ</tai>
     <my>တေ ဘိက္ခူ ဘိက္ခူဟိ ဧဝမဿု ဝစနီယာ</my>
     <roman>te bhikkhū bhikkhūhi evamassu vacanīyā</roman>
     <zh>比库们应如此劝告那些比库:</zh>
-    <tai>‘‘ ᨾᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ ᩑᩅᩴ ᩋᩅᨧᩩᨲ᩠ᨳ,</tai>
-    <my>‘‘ မာယသ္မန္တော ဧဝံ အဝစုတ္ထ,</my>
-    <roman>‘‘ māyasmanto evaṃ avacuttha,</roman>
+    <tai>“ᨾᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ ᩑᩅᩴ ᩋᩅᨧᩩᨲ᩠ᨳ,</tai>
+    <my>“မာယသ္မန္တော ဧဝံ အဝစုတ္ထ,</my>
+    <roman>“māyasmanto evaṃ avacuttha,</roman>
     <zh>“请具寿们不要如此说，</zh>
     <tai>ᨶ ᨧᩮᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨵᨾᩜᩅᩤᨴᩦ,</tai>
     <my>န စေသော ဘိက္ခု ဓမ္မဝါဒီ,</my>
@@ -473,9 +472,9 @@
     <my>သမ္မောဒမာနော အဝိဝဒမာနော</my>
     <roman>sammodamāno avivadamāno</roman>
     <zh>是欢喜、无诤、</zh>
-    <tai>ᩑᨠᩩᨴᩮ᩠ᨴᩈᩮᩣ ᨹᩣᩈᩩ ᩅᩥᩉᩁᨲᩦ’’ ᨲᩥ ,</tai>
-    <my>ဧကုဒ္ဒေသော ဖာသု ဝိဟရတီ’’ တိ ,</my>
-    <roman>ekuddeso phāsu viharatī’’ ti ,</roman>
+    <tai>ᩑᨠᩩᨴᩮ᩠ᨴᩈᩮᩣ ᨹᩣᩈᩩ ᩅᩥᩉᩁᨲᩦ”ᨲᩥ ,</tai>
+    <my>ဧကုဒ္ဒေသော ဖာသု ဝိဟရတီ”တိ ,</my>
+    <roman>ekuddeso phāsu viharatī”ti ,</roman>
     <zh>同一诵[戒]、安乐而住的！”</zh>
     <tai>ᩑᩅᨬ᩠ᨧ ᨲᩮ ᨽᩥᨠ᩠ᨡᩪ ᨽᩥᨠ᩠ᨡᩪᩉᩥ</tai>
     <my>ဧဝဉ္စ တေ ဘိက္ခူ ဘိက္ခူဟိ</my>
@@ -530,9 +529,9 @@
     <my>အတ္တာနံ အဝစနီယံ ကရောတိ</my>
     <roman>attānaṃ avacanīyaṃ karoti</roman>
     <zh>他使自己不受劝告:</zh>
-    <tai>‘‘ ᨾᩣ ᨾᩴ ᩋᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ ᨠᩥᨬ᩠ᨧᩥ ᩋᩅᨧᩩᨲ᩠ᨳ</tai>
-    <my>‘‘ မာ မံ အာယသ္မန္တော ကိဉ္စိ အဝစုတ္ထ</my>
-    <roman>‘‘ mā maṃ āyasmanto kiñci avacuttha</roman>
+    <tai>“ᨾᩣ ᨾᩴ ᩋᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ ᨠᩥᨬ᩠ᨧᩥ ᩋᩅᨧᩩᨲ᩠ᨳ</tai>
+    <my>“မာ မံ အာယသ္မန္တော ကိဉ္စိ အဝစုတ္ထ</my>
+    <roman>“mā maṃ āyasmanto kiñci avacuttha</roman>
     <zh>“请具寿们不要劝告我任何</zh>
     <tai>ᨠᩃ᩠ᨿᩋᩣᨱᩴ ᩅᩤ ᨷᩤᨷᨠᩴ ᩅᩤ,</tai>
     <my>ကလျာဏံ ဝါ ပါပကံ ဝါ,</my>
@@ -546,17 +545,17 @@
     <my>ကလျာဏံ ဝါ ပါပကံ ဝါ,</my>
     <roman>kalyāṇaṃ vā pāpakaṃ vā,</roman>
     <zh>善的或恶的，</zh>
-    <tai>ᩅᩥᩁᨾᨳᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ ᨾᨾ ᩅᨧᨶᩣᨿᩣ’’ ᨲᩥ,</tai>
-    <my>ဝိရမထာယသ္မန္တော မမ ဝစနာယာ’’ တိ,</my>
-    <roman>viramathāyasmanto mama vacanāyā’’ ti,</roman>
+    <tai>ᩅᩥᩁᨾᨳᩣᨿᩈᩜᨶᩮᩣ᩠ᨲ ᨾᨾ ᩅᨧᨶᩣᨿᩣ”ᨲᩥ,</tai>
+    <my>ဝိရမထာယသ္မန္တော မမ ဝစနာယာ”တိ,</my>
+    <roman>viramathāyasmanto mama vacanāyā”ti,</roman>
     <zh>请具寿们停止劝告我！”</zh>
     <tai>ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨽᩥᨠ᩠ᨡᩪᩉᩥ ᩑᩅᨾᩔ ᩅᨧᨶᩦᨿᩮᩣ</tai>
     <my>သော ဘိက္ခု ဘိက္ခူဟိ ဧဝမဿ ဝစနီယော</my>
     <roman>so bhikkhu bhikkhūhi evam·assa vacanīyo</roman>
     <zh>那个比库应被比库们如此劝告:</zh>
-    <tai>‘‘ ᨾᩣᨿᩈᩜᩣ ᩋᨲ᩠ᨲᩣᨶᩴ ᩋᩅᨧᨶᩦᨿᩴ ᩋᨠᩣᩈᩥ,</tai>
-    <my>‘‘ မာယသ္မာ အတ္တာနံ အဝစနီယံ အကာသိ,</my>
-    <roman>‘‘ māyasmā attānaṃ avacanīyaṃ akāsi,</roman>
+    <tai>“ᨾᩣᨿᩈᩜᩣ ᩋᨲ᩠ᨲᩣᨶᩴ ᩋᩅᨧᨶᩦᨿᩴ ᩋᨠᩣᩈᩥ,</tai>
+    <my>“မာယသ္မာ အတ္တာနံ အဝစနီယံ အကာသိ,</my>
+    <roman>“māyasmā attānaṃ avacanīyaṃ akāsi,</roman>
     <zh>“请具寿不要使自己不受劝告，</zh>
     <tai>ᩅᨧᨶᩦᨿᨾᩮᩅᩤᨿᩈᩜᩣ ᩋᨲ᩠ᨲᩣᨶᩴ ᨠᩁᩮᩣᨲᩩ,</tai>
     <my>ဝစနီယမေဝါယသ္မာ အတ္တာနံ ကရောတု,</my>
@@ -578,9 +577,9 @@
     <my>ယဒိဒံ အညမညဝစနေန</my>
     <roman>yadidaṃ aññamañña-vacanena</roman>
     <zh>这即是——互相劝告，</zh>
-    <tai>ᩋᨬ᩠ᨬᨾᨬ᩠ᨬᩅᩩᨭᩛᩣᨷᨶᩮᨶᩣ’’ ᨲᩥ,</tai>
-    <my>အညမညဝုဋ္ဌာပနေနာ’’ တိ,</my>
-    <roman>aññamañña-vuṭṭhāpanenā’’ ti,</roman>
+    <tai>ᩋᨬ᩠ᨬᨾᨬ᩠ᨬᩅᩩᨭᩛᩣᨷᨶᩮᨶᩣ”ᨲᩥ,</tai>
+    <my>အညမညဝုဋ္ဌာပနေနာ”တိ,</my>
+    <roman>aññamañña-vuṭṭhāpanenā”ti,</roman>
     <zh>互相出罪。”</zh>
     <tai>ᩑᩅᨬ᩠ᨧ ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨽᩥᨠ᩠ᨡᩪᩉᩥ</tai>
     <my>ဧဝဉ္စ သော ဘိက္ခု ဘိက္ခူဟိ</my>
@@ -651,9 +650,9 @@
     <my>သော ဘိက္ခု ဘိက္ခူဟိ ဧဝမဿ ဝစနီယော</my>
     <roman>so bhikkhu bhikkhūhi evam·assa vacanīyo</roman>
     <zh>比库们应如此劝告那个比库:</zh>
-    <tai>‘‘ ᩋᩣᨿᩈᩜᩣ ᨡᩮᩣ ᨠᩩᩃᨴᩪᩈᨠᩮᩣ ᨷᩤᨷᩈᨾᩣᨧᩣᩁᩮᩣ,</tai>
-    <my>‘‘ အာယသ္မာ ခေါ ကုလဒူသကော ပါပသမာစာရော,</my>
-    <roman>‘‘ āyasmā kho kula-dūsako pāpa-samācāro,</roman>
+    <tai>“ᩋᩣᨿᩈᩜᩣ ᨡᩮᩣ ᨠᩩᩃᨴᩪᩈᨠᩮᩣ ᨷᩤᨷᩈᨾᩣᨧᩣᩁᩮᩣ,</tai>
+    <my>“အာယသ္မာ ခေါ ကုလဒူသကော ပါပသမာစာရော,</my>
+    <roman>“āyasmā kho kula-dūsako pāpa-samācāro,</roman>
     <zh>“具寿实是污家者，恶行者。</zh>
     <tai>ᩋᩣᨿᩈᩜᨲᩮᩣ ᨡᩮᩣ ᨷᩤᨷᨠᩣ ᩈᨾᩣᨧᩣᩁᩣ</tai>
     <my>အာယသ္မတော ခေါ ပါပကာ သမာစာရာ</my>
@@ -675,9 +674,9 @@
     <my>ပက္ကမတာယသ္မာ ဣမမှာ အာဝါသာ,</my>
     <roman>pakkamatāyasmā imamhā āvāsā,</roman>
     <zh>请具寿离开此住处，</zh>
-    <tai>ᩋᩃᩴ ᨲᩮ ᩍᨵ ᩅᩤᩈᩮᨶᩣ’’ ᨲᩥ,</tai>
-    <my>အလံ တေ ဣဓ ဝါသေနာ’’ တိ,</my>
-    <roman>alaṃ te idha vāsenā’’ ti,</roman>
+    <tai>ᩋᩃᩴ ᨲᩮ ᩍᨵ ᩅᩤᩈᩮᨶᩣ”ᨲᩥ,</tai>
+    <my>အလံ တေ ဣဓ ဝါသေနာ”တိ,</my>
+    <roman>alaṃ te idha vāsenā”ti,</roman>
     <zh>你在这里已住够了！”</zh>
     <tai>ᩑᩅᨬ᩠ᨧ ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨽᩥᨠ᩠ᨡᩪᩉᩥ ᩅᩩᨧ᩠ᨧᨾᩣᨶᩮᩣ</tai>
     <my>ဧဝဉ္စ သော ဘိက္ခု ဘိက္ခူဟိ ဝုစ္စမာနော</my>
@@ -687,9 +686,9 @@
     <my>တေ ဘိက္ခူ ဧဝံ ဝဒေယျ</my>
     <roman>te bhikkhū evaṃ vadeyya</roman>
     <zh>却如此对那些比库说:</zh>
-    <tai>‘‘ ᨨᨶ᩠ᨴᨣᩤᨾᩥᨶᩮᩣ ᨧ ᨽᩥᨠ᩠ᨡᩪ,</tai>
-    <my>‘‘ ဆန္ဒဂါမိနော စ ဘိက္ခူ,</my>
-    <roman>‘‘ chanda-gāmino ca bhikkhū,</roman>
+    <tai>“ᨨᨶ᩠ᨴᨣᩤᨾᩥᨶᩮᩣ ᨧ ᨽᩥᨠ᩠ᨡᩪ,</tai>
+    <my>“ဆန္ဒဂါမိနော စ ဘိက္ခူ,</my>
+    <roman>“chanda-gāmino ca bhikkhū,</roman>
     <zh>“比库们是随欲者，</zh>
     <tai>ᨴᩮᩤᩈᨣᩤᨾᩥᨶᩮᩣ ᨧ ᨽᩥᨠ᩠ᨡᩪ,</tai>
     <my>ဒေါသဂါမိနော စ ဘိက္ခူ,</my>
@@ -707,17 +706,17 @@
     <my>တာဒိသိကာယ အာပတ္တိယာ ဧကစ္စံ ပဗ္ဗာဇေန္တိ,</my>
     <roman>tādisikāya āpattiyā ekaccaṃ pabbājenti,</roman>
     <zh>对同样的罪，驱出一些人，</zh>
-    <tai>ᩑᨠᨧ᩠ᨧᩴ ᨶ ᨷᨻ᩠ᨻᩣᨩᩮᨶ᩠ᨲᩦ’’ ᨲᩥ,</tai>
-    <my>ဧကစ္စံ န ပဗ္ဗာဇေန္တီ’’ တိ,</my>
-    <roman>ekaccaṃ na pabbājentī’’ ti,</roman>
+    <tai>ᩑᨠᨧ᩠ᨧᩴ ᨶ ᨷᨻ᩠ᨻᩣᨩᩮᨶ᩠ᨲᩦ”ᨲᩥ,</tai>
+    <my>ဧကစ္စံ န ပဗ္ဗာဇေန္တီ”တိ,</my>
+    <roman>ekaccaṃ na pabbājentī”ti,</roman>
     <zh>不驱出一些人。”</zh>
     <tai>ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨽᩥᨠ᩠ᨡᩪᩉᩥ ᩑᩅᨾᩔ ᩅᨧᨶᩦᨿᩮᩣ</tai>
     <my>သော ဘိက္ခု ဘိက္ခူဟိ ဧဝမဿ ဝစနီယော</my>
     <roman>so bhikkhu bhikkhūhi evam·assa vacanīyo</roman>
     <zh>比库们应如此劝告那个比库:</zh>
-    <tai>‘‘ ᨾᩣᨿᩈᩜᩣ ᩑᩅᩴ ᩋᩅᨧ,</tai>
-    <my>‘‘ မာယသ္မာ ဧဝံ အဝစ,</my>
-    <roman>‘‘ māyasmā evaṃ avaca,</roman>
+    <tai>“ᨾᩣᨿᩈᩜᩣ ᩑᩅᩴ ᩋᩅᨧ,</tai>
+    <my>“မာယသ္မာ ဧဝံ အဝစ,</my>
+    <roman>“māyasmā evaṃ avaca,</roman>
     <zh>“请具寿不要如此说。</zh>
     <tai>ᨶ ᨧ ᨽᩥᨠ᩠ᨡᩪ ᨨᨶ᩠ᨴᨣᩤᨾᩥᨶᩮᩣ,</tai>
     <my>န စ ဘိက္ခူ ဆန္ဒဂါမိနော,</my>
@@ -759,9 +758,9 @@
     <my>ပက္ကမတာယသ္မာ ဣမမှာ အာဝါသာ,</my>
     <roman>pakkamatāyasmā imamhā āvāsā,</roman>
     <zh>请具寿离开此住处，</zh>
-    <tai>ᩋᩃᩴ ᨲᩮ ᩍᨵ ᩅᩤᩈᩮᨶᩣ’’ ᨲᩥ,</tai>
-    <my>အလံ တေ ဣဓ ဝါသေနာ’’ တိ,</my>
-    <roman>alaṃ te idha vāsenā’’ ti,</roman>
+    <tai>ᩋᩃᩴ ᨲᩮ ᩍᨵ ᩅᩤᩈᩮᨶᩣ”ᨲᩥ,</tai>
+    <my>အလံ တေ ဣဓ ဝါသေနာ”တိ,</my>
+    <roman>alaṃ te idha vāsenā”ti,</roman>
     <zh>你在这里已住够了！”</zh>
     <tai>ᩑᩅᨬ᩠ᨧ ᩈᩮᩣ ᨽᩥᨠ᩠ᨡᩩ ᨽᩥᨠ᩠ᨡᩪᩉᩥ ᩅᩩᨧ᩠ᨧᨾᩣᨶᩮᩣ</tai>
     <my>ဧဝဉ္စ သော ဘိက္ခု ဘိက္ခူဟိ ဝုစ္စမာနော</my>

@@ -2,9 +2,9 @@
 
 # dhammacakkappavattanasuttaṃ
 
-<audio controls>
+<!--audio controls>
   <sourceList src="https://djt-res.fzcl.org.cn/jly/audio/dhammacakka_0218.mp3" type="audio/mpeg">
-</audio>
+</audio-->
 
 Evaṃ me sutaṃ- ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. 
 - (如是我闻) 一时，世尊住在巴拉纳西城附近，名为仙人落处的鹿野苑。
@@ -81,16 +81,16 @@ Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvetabban
 ‘Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvitan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
 - “已修习那趋向苦灭之行道圣谛”，如此，诸比库，于我前所未闻之法中，眼生起，智生起，慧生起，明生起，光生起。
 
-‘‘Yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi, neva tāvāhaṃ, bhikkhave , sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘ anuttaraṃ sammāsambodhiṃ abhisambuddho’ ti paccaññāsiṃ.
-- 诸比库，只要我对于这四圣谛如此具有三转十二行相的如实智见尚未完全清净，诸比库，我就不在有天、魔、梵的天界，有沙门、婆罗门、人间天子、人类的人界中，承认“已证觉无上正自觉智” 。
+“Yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi, neva tāvāhaṃ, bhikkhave , sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘ anuttaraṃ sammāsambodhiṃ abhisambuddho’ ti paccaññāsiṃ.
+- 诸比库，只要我对于这四圣谛如此具有三转十二行相的如实智见尚未完全清净，诸比库，我就不在有天、魔、梵的天界，有沙门、婆罗门、人间天子、人类的人界中，承认“已证觉无上正自觉智”。
 
-‘‘Yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ, bhikkhave , sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘ anuttaraṃ sammāsambodhiṃ abhisambuddho’ ti paccaññāsiṃ. 
+“Yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ, bhikkhave , sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘ anuttaraṃ sammāsambodhiṃ abhisambuddho’ ti paccaññāsiṃ. 
 - 诸比库，当我对这四圣谛如此具有三转十二行相的如实智见已完全清净后，诸比库，我才在有天、魔、梵的天界，有沙门、婆罗门、人间天子、人类的人界中，承认“已证觉无上正自觉智”。
 
 ñāṇañca pana me dassanaṃ udapādi– 
 - 省察智见于我心流生起:
 
-‘akuppā me vimutti, ayamantimā jāti, natthidāni punabbhavo’” ti. 
+‘akuppā me vimutti, ayamantimā jāti, natthidāni punabbhavo’”ti. 
 - “我的解脱不动摇，这是最后一生，现在已无后有”，如此省察智生起。
 
 Idamavoca bhagavā. 
@@ -108,7 +108,7 @@ Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne āyasmato koṇḍaññassa v
 Pavattite ca bhagavatā dhammacakke bhummā devā saddamanussāvesuṃ– 
 - 当世尊已令法之轮转起时 ，地居诸天神齐声赞叹 (说“萨度”) 后递相传告--
 
-“etaṃ bhagavatā bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ, appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin” ti.
+“etaṃ bhagavatā bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ, appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin”ti.
 - “世尊已在巴拉纳西，名为仙人落处的鹿野苑，令这无上法之轮转起，于世间不能被沙门，婆罗门，天，魔，梵或任何人所逆转。"
 
 Bhummānaṃ devānaṃ saddaṃ sutvā cātumahārājikā devā saddamanussāvesuṃ– 
@@ -186,7 +186,7 @@ Ayañca dasasahassilokadhātu saṅkampi sampakampi sampavedhi, appamāṇo ca u
 Atha kho bhagavā udānaṃ udānesi– 
 - 当时，世尊说出这悦智语 --  
 
-“aññāsi vata, bho, koṇḍañño, aññāsi vata, bho, koṇḍañño” ti! 
+“aññāsi vata, bho, koṇḍañño, aññāsi vata, bho, koṇḍañño”ti! 
 - “诸比库，袞丹雅确实已了知!诸比库，袞丹雅确实已了知!”
 
 Iti hidaṃ āyasmato koṇḍaññassa‘ aññākoṇḍañño’ tveva nāmaṃ ahosīti. koṇḍañño bhaddiyo vappo mahānāmo ca assaji ete pañca mahātherā pañcavaggiyeti vuccareti. 

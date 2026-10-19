@@ -95,7 +95,7 @@ saha sabbehi ñātibhi.
 <tai>ᨶᩔᨶ᩠ᨲᩩᨷᨴ᩠ᨴᩅᩤ ᩈᨻᩮ᩠ᨻ,</tai><roman>nassantu'paddavā sabbe,</roman><zh>愿诸厄消失，</zh>
 <tai>ᩁᩮᩣᨣᩤ ᩅᩪᨷᩈᨾᩮᨶ᩠ᨲᩩ ᨲᩮ!</tai><roman>rogā vūpasamentu te!</roman><zh>愿你疾病息！</zh>
 
-tai>ᨾᩉᩣᨠᩁᩩᨱᩥᨠᩮᩣ ᨶᩣᨳᩮᩣ,</tai><roman>Mahākaruṇiko nātho,</roman><zh>大悲的守护者，</zh>
+<tai>ᨾᩉᩣᨠᩁᩩᨱᩥᨠᩮᩣ ᨶᩣᨳᩮᩣ,</tai><roman>Mahākaruṇiko nātho,</roman><zh>大悲的守护者，</zh>
 <tai>ᩉᩥᨲᩣᨿ ᩈᨻ᩠ᨻᨷᩤᨱᩥᨶᩴ ,</tai><roman>hitāya sabba-pāṇinaṃ ,</roman><zh>为利一切众生，</zh>
 <tai>ᨷᩪᩁᩮᨲ᩠ᩅᩣ ᨷᩤᩁᨾᩦ ᩈᨻ᩠ᨻᩣ ,</tai><roman>pūretvā pāramī sabbā ,</roman><zh>圆满诸巴拉密，</zh>
 <tai>ᨷᨲᩮ᩠ᨲᩣ ᩈᨾᩮ᩠ᨻᩣᨵᩥᨾᩩᨲ᩠ᨲᨾᩴ ,</tai><roman>patto sambodhim·uttamaṃ ,</roman><zh>证得无上正觉。</zh>

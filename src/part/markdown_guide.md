@@ -78,7 +78,7 @@
 ```
 \{{#include ../part/line.md}}
 ```
-{{#include ../part/line.md}}
+{{#include ../part/line.md:1:2}}
 
 
 ```

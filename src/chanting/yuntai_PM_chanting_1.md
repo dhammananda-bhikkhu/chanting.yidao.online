@@ -1,7 +1,7 @@
 # 云台晚课1（轮诵大吉祥经，初一、初八、十六、廿三）
 
 <audio id="audio" controls style="width: 100%;">
-	<sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E4%BA%91%E5%8F%B0%E6%97%A9%E6%99%9A%E8%AF%BE/%E6%99%9A%E8%AF%BE1%EF%BC%88%E8%BD%AE%E8%AF%B5%E5%A4%A7%E5%90%89%E7%A5%A5%E7%BB%8F%EF%BC%89-%E6%B3%95%E6%8A%A4.mp3" >
+	<sourceList src="https://ftp.wikipali.org/kosalla/%E8%AF%BE%E8%AF%B5%E6%9C%AC%E9%9F%B3%E9%A2%91/%E4%BA%91%E5%8F%B0%E6%97%A9%E6%99%9A%E8%AF%BE/%E6%99%9A%E8%AF%BE1%EF%BC%88%E8%BD%AE%E8%AF%B5%E5%A4%A7%E5%90%89%E7%A5%A5%E7%BB%8F%EF%BC%89-%E6%B3%95%E6%8A%A4.mp3" ></sourceList>
 </audio>
 
 ## Ratanattaya vandanā(礼拜三宝)
